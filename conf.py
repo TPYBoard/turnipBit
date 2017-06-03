@@ -55,7 +55,7 @@ html_context = {
 
 
 # Specify a custom master document based on the port name
-master_doc = micropy_port + '_' + 'index'
+master_doc = 'index'
 
 # -- General configuration ------------------------------------------------
 
@@ -203,7 +203,7 @@ html_last_updated_fmt = '%d %b %Y'
 
 # Additional templates that should be rendered to pages, maps page names to
 # template names.
-html_additional_pages = {"index": "topindex.html"}
+#html_additional_pages = {"index": "topindex.html"}
 
 # If false, no module index is generated.
 #html_domain_indices = True
