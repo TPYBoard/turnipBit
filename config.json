@@ -1,5 +1,0 @@
-{
-    "microbit" : {
-        "configfile" : "inc/microbit/MicroBitCustomConfig.h"
-    }
-}
