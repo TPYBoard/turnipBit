@@ -23,36 +23,36 @@ sys.path.insert(0, os.path.abspath('.'))
 
 # Work out the port to generate the docs for
 from collections import OrderedDict
-micropy_port = os.getenv('MICROPY_PORT') or 'docs'
-tags.add('port_' + micropy_port)
+#micropy_port = os.getenv('MICROPY_PORT') or 'turnipbit'
+#tags.add('port_' + micropy_port)
 ports = OrderedDict((
     ('unix', 'unix'),
     ('tpyboard', 'the tpyboard'),
     ('wipy', 'the WiPy'),
     ('esp8266', 'the ESP8266'),
-    ('docs', 'the turnipbit'),
 ))
 
 # The members of the html_context dict are available inside topindex.html
 micropy_version = os.getenv('MICROPY_VERSION') or 'latest'
 micropy_all_versions = (os.getenv('MICROPY_ALL_VERSIONS') or 'latest').split(',')
 url_pattern = '%s/en/%%s/%%s' % (os.getenv('MICROPY_URL_PREFIX') or '/',)
-html_context = {
-    'port':micropy_port,
-    'port_name':ports[micropy_port],
-    'port_version':micropy_version,
-    'all_ports':[
-        (port_id, url_pattern % (micropy_version, port_id))
-            for port_id, port_name in ports.items()
-    ],
-    'all_versions':[
-        (ver, url_pattern % (ver, micropy_port))
-            for ver in micropy_all_versions
-    ],
-    'downloads':[
-        ('PDF', url_pattern % (micropy_version, 'micropython-%s.pdf' % micropy_port)),
-    ],
-}
+
+#html_context = {
+#    'port':micropy_port,
+#    'port_name':ports[micropy_port],
+#    'port_version':micropy_version,
+#    'all_ports':[
+#        (port_id, url_pattern % (micropy_version, port_id))
+#            for port_id, port_name in ports.items()
+#    ],
+#    'all_versions':[
+#        (ver, url_pattern % (ver, micropy_port))
+#            for ver in micropy_all_versions
+#    ],
+#    'downloads':[
+#        ('PDF', url_pattern % (micropy_version, 'micropython-%s.pdf' % micropy_port)),
+#    ],
+#}
 
 
 # Specify a custom master document based on the port name
