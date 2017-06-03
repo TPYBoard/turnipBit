@@ -23,13 +23,14 @@ sys.path.insert(0, os.path.abspath('.'))
 
 # Work out the port to generate the docs for
 from collections import OrderedDict
-micropy_port = os.getenv('MICROPY_PORT') or 'tpyboard'
+micropy_port = os.getenv('MICROPY_PORT') or 'docs'
 tags.add('port_' + micropy_port)
 ports = OrderedDict((
     ('unix', 'unix'),
     ('tpyboard', 'the tpyboard'),
     ('wipy', 'the WiPy'),
     ('esp8266', 'the ESP8266'),
+    ('docs', 'the turnipbit'),
 ))
 
 # The members of the html_context dict are available inside topindex.html
