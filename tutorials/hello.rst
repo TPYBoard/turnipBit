@@ -14,18 +14,15 @@ Hello, World!
 
     from microbit import *
 
-...告诉MicroPython获取所有资源并执行在TurnipBit。 All this stuff is in a module called ``microbit`` (a module
-is a library of pre-existing code). When you ``import`` something you're telling
-MicroPython that you want to use it, and ``*`` is Python's way to say
-*everything*. So, ``from microbit import *`` means, in English, "I want to be
-able to use everything from the microbit code library".
+...告诉MicroPython获取所有资源并在TurnipBit上执行。 这个模块就是 ``microbit`` (模块
+是预先存在的代码库。)。 当使用 ``import`` 的东西就是告诉MicroPython要使用它, 并且 ``*`` 是Python的*everything*。
+因此, ``from microbit import *`` 的意思是, "我想能够从TurnipBit代码库中使用一切"。
 
 第二行::
 
     display.scroll("Hello, World!")
 
-...tells MicroPython to use the display to scroll the string of characters
-"Hello, World!". The ``display`` part of that line is an *object* from the
+...告诉micropython使用显示滚动字符的字符串"Hello, World!"。 The ``display`` part of that line is an *object* from the
 ``microbit`` module that represents the device's physical display (we say
 "object" instead of "thingy", "whatsit" or "doodah"). We can tell the display
 to do things with a full-stop ``.`` followed by what looks like a command (in
