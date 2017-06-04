@@ -1,28 +1,26 @@
 Hello, World!
 -------------
 
-The traditional way to start programming in a new language is to get your
-computer to say, "Hello, World!".
+用一种新的语言开始编程的传统方法是让你的计算机说, "Hello, World!".
 
 .. image:: ../scroll-hello.gif
 
-This is easy with MicroPython::
+使用MicroPython非常容易::
 
     from microbit import *
     display.scroll("Hello, World!")
 
-Each line does something special. The first line::
+第一行代码比较特殊::
 
     from microbit import *
 
-...tells MicroPython to get all the stuff it needs to work with the BBC
-micro:bit. All this stuff is in a module called ``microbit`` (a module
+...告诉MicroPython获取所有资源并执行在TurnipBit。 All this stuff is in a module called ``microbit`` (a module
 is a library of pre-existing code). When you ``import`` something you're telling
 MicroPython that you want to use it, and ``*`` is Python's way to say
 *everything*. So, ``from microbit import *`` means, in English, "I want to be
 able to use everything from the microbit code library".
 
-The second line::
+第二行::
 
     display.scroll("Hello, World!")
 
