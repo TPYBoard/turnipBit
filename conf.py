@@ -70,7 +70,7 @@ source_suffix = '.rst'
 #master_doc = 'index'
 
 # General information about the project.
-project = 'MicroPython TPYBoard'
+project = 'MicroPython TurnipBit'
 copyright = '2016-2017. translation and authors By TPYBoard'
 
 # The version info for the project you're documenting, acts as replacement for
