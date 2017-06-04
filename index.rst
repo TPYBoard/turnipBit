@@ -3,14 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-BBC micro:bit MicroPython documentation
+TurnipBit MicroPython文档资料
 =======================================
 
-Welcome!
+欢迎!
 
-The BBC micro:bit is a small computing device for children. One of the
-languages it understands is the popular Python programming language. The
-version of Python that runs on the BBC micro:bit is called MicroPython.
+Turnip Bit是专为儿童设计的小型计算机设备。流行的Python编程语言是它支持的语言之一。
+运行在TurnipBit上的Python版本就是MicroPython。
 
 This documentation includes lessons for teachers
 and API documentation for developers (check out the index on the left). We hope
