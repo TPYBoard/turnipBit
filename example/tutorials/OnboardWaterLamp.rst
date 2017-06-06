@@ -35,9 +35,13 @@ led为板载器件
 ----------------------------
 
 先上个图，下面再开始说代码的问题。
-.. image::板载流水灯\实物图.png
+
+.. image:: 板载流水灯\实物图.png
+
 实物图片
-.. image::板载流水灯\板载流水灯全.png
+
+.. image:: 板载流水灯\板载流水灯全.png
+
 代码截图
 再放上一个视频链接：
 https://v.qq.com/x/page/e0509rnqn5r.html
@@ -61,7 +65,9 @@ https://v.qq.com/x/page/e0509rnqn5r.html
 ---------------------
 
 图形代码：
-.. image::板载流水灯\板载流水灯.png
+
+.. image:: 板载流水灯\板载流水灯.png
+
 Python代码::
 from microbit import *#声明类库
 
