@@ -70,13 +70,23 @@ from microbit import *#声明类库
 
 w='000'
 ADC=''#定义变量
+
 while True:
+
     if(uart.any()):#判断串口是否有数据
+	
         w=uart.readall()#读取串口数据
+		
         w=int(w)#转换读取到的数据为int类型
+		
         if(w==1):#判断串口接收的数据是否为1
+		
             ADC=pin0.read_analog()#读取P0接口的模拟值
+			
             uart.write('ADC=')
+			
             uart.write(str(ADC)+'\n')#输出P0接口的模拟值
+			
         else:
+		
             uart.write('Command error')
