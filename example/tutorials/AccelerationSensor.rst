@@ -30,9 +30,12 @@ TurnipBit开发板开发板  一块
 --------------------
 
 先上个图，下面再开始说代码的问题。
-.. image::加速度传感器\加速度3.jpg
-.. image::加速度传感器\加速度2.jpg
-.. image::加速度传感器\加速度1.jpg
+
+.. image::images\J3.jpg
+
+.. image::images\J2.jpg
+
+.. image::images\J1.jpg
 
 1、制作流程
 -------------------
