@@ -36,11 +36,11 @@ led为板载器件
 
 先上个图，下面再开始说代码的问题。
 
-.. image:: images/实物图.png
+.. image:: images/SW.png
 
 实物图片
 
-.. image:: 板载流水灯全.png
+.. image:: images/BJLQ.png
 
 代码截图
 再放上一个视频链接：
@@ -50,15 +50,25 @@ https://v.qq.com/x/page/e0509rnqn5r.html
 ----------------------
 
 1.首先需要定义要用到的变量，这次用到了三个变量：“X”控制led的X轴坐标，“Y”控制led的Y轴坐标，“b”控制是点亮led还是熄灭led；
+
 2.设置一个死循环；
+
 3.判断b是否等于1；
+
 4.如果b等于1，熄灭坐标为（X,Y）的led；
+
 5.判断b是否等于-1；
+
 6.如果b等于-1，点亮坐标为（X,Y）的led；
+
 7.变量Y加一；
+
 8.判断变量Y是否等于5；
+
 9.如果变量Y等于5，将变量Y置零，将变量X加一，判断变量X是否等于5；
+
 10.如果变量X等于5，将变量b乘负一，将变量X置零；
+
 11.延时100毫秒，并执行无限循环。
 
 2、具体代码：
@@ -66,7 +76,7 @@ https://v.qq.com/x/page/e0509rnqn5r.html
 
 图形代码：
 
-.. image:: 板载流水灯.png
+.. image:: images/BJL.png
 
 Python代码::
 from microbit import *#声明类库
