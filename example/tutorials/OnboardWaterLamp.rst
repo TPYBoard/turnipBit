@@ -82,18 +82,32 @@ Python代码::
 from microbit import *#声明类库
 
 x = 0#定义变量X，控制led的X轴
+
 y = 0#控制变量Y，控制led的Y轴
+
 b = -1#控制变量b，控制点亮和熄灭
+
 while True:#设置死循环
+
   if b == 1:#判断b是否等于1
+  
     display.set_pixel(x, y, 0)#将坐标为(X,Y)的led熄灭
+	
   if b == -1:#判断b是否等于-1
+  
     display.set_pixel(x, y, 9)#将坐标为(X,Y)的led点亮
-  y = y + 1#将变量Y加一
+	
+  y = y + 1#将变量Y加1
+  
   if y == 5:#判断变量Y是否等于5
+  
     y = 0#将变量Y置零
-    x = x + 1#将变量X加一
+	
+    x = x + 1#将变量X加1
     if x == 5:#判断变量X是否等于5
+	
       b = b * -1#将变量b乘-1
+	  
       x = 0#将变量X置零
+	  
   sleep(100)#延时100毫秒

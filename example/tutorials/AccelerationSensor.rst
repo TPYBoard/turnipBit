@@ -56,15 +56,21 @@ TurnipBit开发板开发板  一块
 -------------------
 
 Python代码::
+
 from microbit import *#声明函数库
+
 while True:
+
     reading = accelerometer.get_y()#获取当前的加速度Y轴的数值
+	
     if reading > 20:#判断当前的加速度Y轴的数值是否大于20
-        display.show("1")#大于20说明当前是开发板向左偏移，
-        #显示“1”
+	
+        display.show("1")#大于20说明当前是开发板向左偏移，显示“1”
+		
     elif reading < -20:#判断当前的加速度Y轴的数值是否小于20
-        display.show("0")#小于20说明当前是开发板向右偏移，
-        #显示“0”
+	
+        display.show("0")#小于20说明当前是开发板向右偏移，显示“0”
+		
     else:#判断当前的加速度Y轴的数值是否等于20
-        display.show("-")#等于20说明当前是开发板向处于平衡
-        #位置，显示“0”
+	
+        display.show("-")#等于20说明当前是开发板向处于平衡位置，显示“0”

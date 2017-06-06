@@ -67,9 +67,15 @@ Python代码::
 from microbit import *#声明变量
 
 while True:
+
     if button_a.is_pressed():#判断按键A是否按下
+	
         display.show("+")#显示图形“+”
+		
     elif button_b.is_pressed():#判断按键B是否按下
+	
         display.show("Y")#显示图形“Y”
+		
     else:
+	
         display.show("*")#显示图形“*”
