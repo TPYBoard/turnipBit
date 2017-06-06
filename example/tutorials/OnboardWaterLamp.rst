@@ -78,6 +78,7 @@ https://v.qq.com/x/page/e0509rnqn5r.html
 .. image:: images/BJL.png
 
 Python代码::
+
 from microbit import *#声明类库
 
 x = 0#定义变量X，控制led的X轴
