@@ -36,8 +36,7 @@ led为板载器件
 
 先上个图，下面再开始说代码的问题。
 
-.. image:: images/SW.png
-
+.. image:: images/SW.jpg
 实物图片
 
 .. image:: images/BJLQ.png
