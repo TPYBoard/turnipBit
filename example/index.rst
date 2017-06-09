@@ -20,3 +20,29 @@ TurnipBit 实例教程
    tutorials/UsartTXRX.rst
    tutorials/UsartADC.rst
    tutorials/AccelerationSensor.rst
+   
+*TurnipBit 基础篇*
+
+.. toctree::
+   :maxdepth: 1
+
+   tutorials/BitUsart.rst
+   tutorials/ButtonControlGraphics.rst
+   tutorials/OnboardWaterLamp.rst
+   tutorials/UsartMagneticSensor.rst
+   tutorials/UsartTXRX.rst
+   tutorials/UsartADC.rst
+   tutorials/AccelerationSensor.rst
+   
+*TurnipBit 入门篇*
+
+.. toctree::
+   :maxdepth: 1
+
+   tutorials/BitUsart.rst
+   tutorials/ButtonControlGraphics.rst
+   tutorials/OnboardWaterLamp.rst
+   tutorials/UsartMagneticSensor.rst
+   tutorials/UsartTXRX.rst
+   tutorials/UsartADC.rst
+   tutorials/AccelerationSensor.rst
