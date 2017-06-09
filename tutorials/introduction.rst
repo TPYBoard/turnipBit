@@ -10,7 +10,6 @@ Mu支持Windows, OSX 和 Linux.
 
 在编辑器窗口中编写你的脚本，然后点击“下载”按钮将其传送到TurnipBit。
 如果不起作用，请确保您的TurnipBit在文件系统浏览器中作为USB存储设备出现。
-
 .. toctree::
     :maxdepth: 2
     :caption: Tutorials
