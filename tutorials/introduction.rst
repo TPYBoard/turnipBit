@@ -1,19 +1,15 @@
-Introduction
+介绍
 ------------
 
-We suggest you download and use the `mu editor <http://codewith.mu/>`_ when
-working through these tutorials. Instructions for downloading and installing
-Mu are on its website. You may need to install a driver, depending on your
-platform (instruction are on the website).
+我们建议您下载并使用 `mu editor <http://codewith.mu/>`_ 当通过这些教程工作时。下载和安装MU的说明在其网站上。
+您可能需要安装一个驱动程序，这取决于您的平台（指令在网站上）。
 
-Mu works with Windows, OSX and Linux.
+Mu支持Windows, OSX 和 Linux.
 
-Once Mu is installed connect your micro:bit to your computer via a USB lead.
+一旦安装MU，通过USB接口将你的TurnipBit连接到你的计算机上。
 
-Write your script in the editor window and click the "Flash" button to transfer
-it to the micro:bit. If it doesn't work, make sure your micro:bit appears as
-a USB storage device in your file system explorer.
-
+在编辑器窗口中编写你的脚本，然后点击“下载”按钮将其传送到TurnipBit。
+如果不起作用，请确保您的TurnipBit在文件系统浏览器中作为USB存储设备出现。
 .. toctree::
     :maxdepth: 2
     :caption: Tutorials
