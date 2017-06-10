@@ -47,7 +47,7 @@ Turnipbit支持图形编程和MicroPython编程两种语言编程方式。Turnip
 这次的使用方法讲解采用一个利用板载LED显示图案的例子来讲解，方便大家理解。
 1.在打开网址http://turnipbit.tpyboard.com/之后，点击界面右上角的“编辑器”，进入图形编辑界面，如下图
 
-.. image:: images/TDJJ1.png
+.. image:: images/TBJJ1.png
 
 2.在界面左面的命令选择区域选择需要的命令；
 
