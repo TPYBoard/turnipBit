@@ -1,18 +1,15 @@
-Introduction
+介绍
 ------------
 
-We suggest you download and use the `mu editor <http://codewith.mu/>`_ when
-working through these tutorials. Instructions for downloading and installing
-Mu are on its website. You may need to install a driver, depending on your
-platform (instruction are on the website).
+我们建议您下载并使用 `mu editor <http://codewith.mu/>`_ 当通过这些教程工作时。下载和安装MU的说明在其网站上。
+您可能需要安装一个驱动程序，这取决于您的平台（指令在网站上）。
 
-Mu works with Windows, OSX and Linux.
+Mu支持Windows, OSX 和 Linux.
 
-Once Mu is installed connect your micro:bit to your computer via a USB lead.
+一旦安装MU，通过USB接口将你的TurnipBit连接到你的计算机上。
 
-Write your script in the editor window and click the "Flash" button to transfer
-it to the micro:bit. If it doesn't work, make sure your micro:bit appears as
-a USB storage device in your file system explorer.
+在编辑器窗口中编写你的脚本，然后点击“下载”按钮将其传送到TurnipBit。
+如果不起作用，请确保您的TurnipBit在文件系统浏览器中作为USB存储设备出现。
 
 .. toctree::
     :maxdepth: 2
@@ -33,13 +30,11 @@ a USB storage device in your file system explorer.
     radio
     next
 
-Python is one of the `world's most popular <http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html>`_ programming languages. Every day, without
-realising, you probably use software written using Python. All sorts of
-companies and organisations use Python for a diverse range of applications.
-Google, NASA, Bank of America, Disney, CERN, YouTube, Mozilla, The Guardian -
-the list goes on and covers all sectors of the economy, science and the arts.
+Python是 `world's most popular <http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html>`_ 编程语言。
+每天，不知不觉中，你可能会使用Python编写的软件。 各种各样的公司和组织使用Python进行各种各样的应用。
+Google, NASA, Bank of America, Disney, CERN, YouTube, Mozilla, 《卫报》——该名单将继续涵盖经济、科学和艺术的所有领域。
 
-For example, do you remember the announcement of the `discovery of gravitational waves <http://www.bbc.co.uk/news/science-environment-35552207>`_? The instruments used to make the measurements were controlled `with Python <https://www.reddit.com/r/IAmA/comments/45g8qu/we_are_the_ligo_scientific_collaboration_and_we/czxnlux>`_.
+例如, do you remember the announcement of the `discovery of gravitational waves <http://www.bbc.co.uk/news/science-environment-35552207>`_? The instruments used to make the measurements were controlled `with Python <https://www.reddit.com/r/IAmA/comments/45g8qu/we_are_the_ligo_scientific_collaboration_and_we/czxnlux>`_.
 
 Put simply, if you teach or learn Python, you are developing a highly valuable
 skill that applies to all areas of human endeavour.
