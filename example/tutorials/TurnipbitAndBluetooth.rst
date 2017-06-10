@@ -56,6 +56,7 @@ TurnipBit开发板开发板  一块
 .. image:: images/LAN2.jpg
 
 7.此时，在给TurnipBit供电的前提下，在同时按住按键A和按键B的前提下，按下“REST”按键两秒左右，松开；
+
 8.这时TurnipBit的LED上滚动字符串“pairing”和“mode1”，完成滚动后，LED界面会出现一个图案，这个图案是蓝牙配对的密码，如果要是TurnipBit的LED一直不出现上述现象，可以往板子里面随便烧写一个固件进去再试一下，如图：
 
 .. image:: images/LAN.png
@@ -69,4 +70,5 @@ TurnipBit开发板开发板  一块
 .. image:: images/LAN.jpg
 
 11.剩下的就是点解“OK”;
+
 此时TurnipBit和手机就已经配对连接完成。
