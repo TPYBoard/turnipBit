@@ -26,7 +26,7 @@ TurnipBit 实例教程
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    tutorials/WhitIsTurnipbit.rst
    tutorials/TheDevelopmentDfTurnipbit.rst
