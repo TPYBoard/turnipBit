@@ -49,7 +49,6 @@ Turnipbit支持图形编程和MicroPython编程两种语言编程方式。Turnip
 
 .. image:: images/TDJJ1.png
 
-;
 2.在界面左面的命令选择区域选择需要的命令；
 
 .. image:: images/TBJJ2.png
