@@ -4,7 +4,7 @@
 1.turnipbit简介
 -------------------------
 
- TurnipBit开发板由TurnipSmart公司制作的一款MicroPython开发板，基于NRF51822芯片为主控芯片，以MKL26Z128VFM4芯片作为边载辅助芯片，板载5*5LED灯，板载加速度传感器，板载磁敏传感器灯多种外设器件，同时支持图形编程及MicroPython代码编程控制的高智能芯片开发板。
+TurnipBit开发板由TurnipSmart公司制作的一款MicroPython开发板，基于NRF51822芯片为主控芯片，以MKL26Z128VFM4芯片作为边载辅助芯片，板载5*5LED灯，板载加速度传感器，板载磁敏传感器灯多种外设器件，同时支持图形编程及MicroPython代码编程控制的高智能芯片开发板。
 确保广大爱好者零基础学习单片机。
 
 2.Turnipbit板载器件简介
@@ -100,7 +100,7 @@ Turnipbit上面的外接接口为二十八针金手指接插件，除去两个GND，一个VUSB电源，一个VT
 .. image:: images/T2.png
 
 .. image:: images/T3.png
- 
+
 引出接口数目如下表：
 接口类型	数量
 数字		18
