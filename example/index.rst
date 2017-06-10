@@ -20,3 +20,13 @@ TurnipBit 实例教程
    tutorials/UsartTXRX.rst
    tutorials/UsartADC.rst
    tutorials/AccelerationSensor.rst
+
+*TurnipBit 基础篇*
+
+.. toctree::
+   :maxdepth: 1
+
+   tutorials/什么是turnipbit.rst
+   tutorials/turnipbit开发环境介绍.rst
+   tutorials/BIT快速入门.rst
+   tutorials/turnipbit向全世界说hello world.rst
