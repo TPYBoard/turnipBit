@@ -28,7 +28,7 @@ TurnipBit 实例教程
 .. toctree::
    :maxdepth: 1
 
-   tutorials/whit is turnipbit.rst
-   tutorials/The development of turnipbit.rst
-   tutorials/turnipbit  Icebreaker.rst
-   tutorials/turnipbit  and“hello world”.rst
+   tutorials/WhitIsTurnipbit.rst
+   tutorials/TheDevelopmentDfTurnipbit.rst
+   tutorials/TurnipbitIcebreaker.rst
+   tutorials/TurnipbitAnd“Helloworld”.rst
