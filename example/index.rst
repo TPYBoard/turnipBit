@@ -34,7 +34,7 @@ TurnipBit 实例教程
    tutorials/TurnipbitAnd“Helloworld”.rst
 
 
-   *TurnipBit 基础篇*
+*TurnipBit 入门篇*
 
 
 .. toctree::
