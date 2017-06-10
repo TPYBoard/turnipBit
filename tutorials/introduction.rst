@@ -34,41 +34,27 @@ Python是 `world's most popular <http://www.tiobe.com/index.php/content/paperinf
 每天，不知不觉中，你可能会使用Python编写的软件。 各种各样的公司和组织使用Python进行各种各样的应用。
 Google, NASA, Bank of America, Disney, CERN, YouTube, Mozilla, 《卫报》——该名单将继续涵盖经济、科学和艺术的所有领域。
 
-例如, do you remember the announcement of the `discovery of gravitational waves <http://www.bbc.co.uk/news/science-environment-35552207>`_? The instruments used to make the measurements were controlled `with Python <https://www.reddit.com/r/IAmA/comments/45g8qu/we_are_the_ligo_scientific_collaboration_and_we/czxnlux>`_.
+例如, 你还记得 `discovery of gravitational waves <http://www.bbc.co.uk/news/science-environment-35552207>`_通告吗? 用来测量的仪器被控制了 `with Python <https://www.reddit.com/r/IAmA/comments/45g8qu/we_are_the_ligo_scientific_collaboration_and_we/czxnlux>`_.
 
-Put simply, if you teach or learn Python, you are developing a highly valuable
-skill that applies to all areas of human endeavour.
+简而言之,如果你教或学Python，你正在开发一种非常有价值的技能，它适用于人类努力的所有领域。
 
-One such area is the BBC's amazing micro:bit device. It runs a version of
-Python called MicroPython that's designed to run on small computers like the BBC
-micro:bit. It's a full implementation of Python 3 so when you move onto other
-things (such as programming Python on a Raspberry Pi) you'll use exactly the
-same language.
+其中一个领域是TurnipBit(兼容英国广播公司惊人的micro:bit设备）。它运行一个版本
+“micropython Python的设计运行在像英国广播公司micro:bit。
+这是Python 3的完整实现，所以当您转到其他东西（如在Raspberry Pi上编程Python）时，您将使用完全相同的语言。
 
-MicroPython does not include all the standard code libraries that come with
-"regular" Python. However, we have created a special ``microbit`` module in
-MicroPython that lets you control the device.
+MicroPython并不包括所有的标准代码库，对"正规"Python来说。然而, 我们已经创建了一个特殊 ``microbit`` 模块让你控制装置。
 
-Python and MicroPython are free software. Not only does this mean you don't pay
-anything to use Python, but you are also free to contribute back to the Python
-community. This may be in the form of code, documentation, bug reports, running
-a community group or writing tutorials (like this one). In fact, all the Python
-related resources for the BBC micro:bit have been created by an international
-team of volunteers working in their free time.
+Python和micropython是自由软件。这不仅意味着您不需要支付任何使用Python的费用，而且还可以自由地返回到Python社区。这可能是代码、文档、bug报告、运行社区组或编写教程（如本教程）的形式。事实上，所有的Python相关资源的英国广播公司turnipbit已创建的一个国际志愿者团队在他们的自由时间工作。
 
-These lessons introduce MicroPython and the BBC
-micro:bit in easy-to-follow steps. Feel free to adopt and adapt them for
-classroom based lessons, or perhaps just follow them on your own at home.
+这些课程介绍micropython和易于遵循的步骤TurnipBit。欢迎采纳并调整它们。
+以课堂为基础的课程，或者在家里独自学习。
 
-You'll have most success if you explore, experiment and play. You can't break
-a BBC micro:bit by writing incorrect code. Just dive in!
+如果你探索、试验和玩耍，你将获得最大的成功。你不能打破一个turnipbit写代码不正确。潜入水中！
 
-A word of warning: *you will fail many times*, and that is fine. **Failure is
-how good software developers learn**. Those of us who work as software
-developers have a lot of fun tracking down bugs and avoiding the repetition of
-mistakes.
+警告一句: *你会失败很多次*, 这很好。 **失败是软件开发人员如何学习**。
+我们这些从事软件开发的人有很多乐趣，可以追踪bug并避免重复错误。
 
-If in doubt, remember the Zen of MicroPython::
+如果有疑问，记得micropython::
 
     Code,
     Hack it,
@@ -81,4 +67,4 @@ If in doubt, remember the Zen of MicroPython::
 
     Happy hacking! :-)
 
-Best of luck!
+祝你好运!
