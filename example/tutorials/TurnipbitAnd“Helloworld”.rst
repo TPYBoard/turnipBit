@@ -1,4 +1,4 @@
-让我们用TurnipBit向全世界说“hello world”
+TurnipBit向全世界说“hello world”
 ================================================
 
 一、什么是TurnipBit开发板
