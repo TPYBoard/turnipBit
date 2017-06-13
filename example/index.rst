@@ -46,3 +46,4 @@ TurnipBit 实例教程
    tutorials/TurnipbitAndAcceleration.rst
    tutorials/TurnipbitAndBluetooth.rst
    tutorials/TurnipbitAndADC.rst
+   tutorials/TurnipBitAndPWM.rst
