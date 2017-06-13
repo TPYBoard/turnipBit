@@ -1,4 +1,4 @@
-TurnipBit开发板串口输出ADC值
+TurnipBit的ADC使用
 ==================================
 
 一、什么是TurnipBit开发板
