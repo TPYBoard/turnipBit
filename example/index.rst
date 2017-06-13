@@ -32,6 +32,7 @@ TurnipBit 实例教程
    tutorials/TurnipbitAndKey.rst
    tutorials/TurnipbitAndAcceleration.rst
    tutorials/TurnipbitAndBluetooth.rst
+   tutorials/UsartTXRX.rst
    tutorials/TurnipbitAndADC.rst
    tutorials/TurnipBitAndPWM.rst
    
@@ -45,6 +46,5 @@ TurnipBit 实例教程
    tutorials/ButtonControlGraphics.rst
    tutorials/OnboardWaterLamp.rst
    tutorials/UsartMagneticSensor.rst
-   tutorials/UsartTXRX.rst
    tutorials/UsartADC.rst
    tutorials/AccelerationSensor.rst
