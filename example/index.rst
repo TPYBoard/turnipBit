@@ -45,3 +45,4 @@ TurnipBit 实例教程
    tutorials/TurnipbitAndKey.rst
    tutorials/TurnipbitAndAcceleration.rst
    tutorials/TurnipbitAndBluetooth.rst
+   tutorials/TurnipbitAndADC.rst
