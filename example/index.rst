@@ -8,19 +8,6 @@ TurnipBit 实例教程
 其中主要包括板载LED灯阵，板载按键，加速度传感器，
 磁敏传感器，ADC采样以及串口打印等功能。
 
-*TurnipBit 典型实例*
-
-.. toctree::
-   :maxdepth: 1
-
-   tutorials/BitUsart.rst
-   tutorials/ButtonControlGraphics.rst
-   tutorials/OnboardWaterLamp.rst
-   tutorials/UsartMagneticSensor.rst
-   tutorials/UsartTXRX.rst
-   tutorials/UsartADC.rst
-   tutorials/AccelerationSensor.rst
-
    
 *TurnipBit 基础篇*
 
@@ -47,3 +34,17 @@ TurnipBit 实例教程
    tutorials/TurnipbitAndBluetooth.rst
    tutorials/TurnipbitAndADC.rst
    tutorials/TurnipBitAndPWM.rst
+   
+   
+*TurnipBit 典型实例*
+
+.. toctree::
+   :maxdepth: 1
+
+   tutorials/BitUsart.rst
+   tutorials/ButtonControlGraphics.rst
+   tutorials/OnboardWaterLamp.rst
+   tutorials/UsartMagneticSensor.rst
+   tutorials/UsartTXRX.rst
+   tutorials/UsartADC.rst
+   tutorials/AccelerationSensor.rst
