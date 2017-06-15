@@ -68,6 +68,7 @@ TurnipBit开发环境介绍
 	.. image:: images/TBJJ6.png
 
 	4.在加入图形显示命令后，再次选择命令选择区域中的图像框，加入图像编程框中，如下图：
+	
 	4.1选择左侧命令选择区域的图形；
 
 	.. image:: images/TBJJ7.png
@@ -85,6 +86,7 @@ TurnipBit开发环境介绍
 	.. image:: images/TBJJ10.png
 
 	6.绘制完成你想要的图案后，点击左下角的下载hex，即可得到想要的固件；
+	
 	7.在Turnipbit插上电脑后，出现一个盘符，打开盘符，把刚刚下载的固件复制进去，在复制固件进去的时候，板载的黄色指示灯会闪烁，同时在电脑界面会出现如下界面：
 
 	.. image:: images/TBJJ11.png
