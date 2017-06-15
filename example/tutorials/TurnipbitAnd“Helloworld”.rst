@@ -47,6 +47,7 @@ TurnipBit向全世界说“hello world”
 	.. image:: images/TBJJ1.png
 
 	;
+	
 	2.在界面左面的命令选择区域选择需要的命令；
 
 	.. image:: images/TBJJ2.png
