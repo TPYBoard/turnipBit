@@ -35,7 +35,7 @@ TurnipBit向全世界说“hello world”
 
 	先上个图，下面再开始说代码的问题。
 
-	.. image:: images/LED4.png
+	.. image:: images/L2.jpg
 
 
 
