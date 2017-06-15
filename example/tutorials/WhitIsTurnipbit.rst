@@ -103,16 +103,14 @@ TurnipBit是什么
     
     详细针脚图如下：
 
-.. image:: images/T2.png
-
 .. image:: images/T3.png
 
     引出接口数目如下表：
     接口类型	数量
-    数字		   18
-    模拟		   6
-    USART		 1
-    SPI			 1
-    I2C			 1
+    数字		18
+    模拟		6
+    USART		1
+    SPI			1
+    I2C			1
     
     详细接口位置信息详见Turnipbit针脚图，接口使用方法详见例程示例教程文档。
