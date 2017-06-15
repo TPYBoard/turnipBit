@@ -36,11 +36,11 @@ TurnipBit开发板按键控制显示图形
 
 	先上个图，下面再开始说代码的问题。
 
-.. image:: images/T1.jpg
+	.. image:: images/T1.jpg
 
-.. image:: images/T2.jpg
+	.. image:: images/T2.jpg
 
-.. image:: images/T3.jpg
+	.. image:: images/T3.jpg
 
 1、制作流程
 ---------------------
