@@ -38,7 +38,7 @@ TurnipBit的LED操作
 ------------------------
 	先上个图，下面再开始说代码的问题。
 
-	.. image:: images/L2.png
+	.. image:: images/L2.jpg
 
 
 	实物图片
