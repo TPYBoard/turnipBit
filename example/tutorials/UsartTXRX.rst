@@ -66,10 +66,10 @@ TurnipBit开发板串口接收和打印
 
 	while True:
 
-	if(uart.any()):#判断串口是否有数据
+		if(uart.any()):#判断串口是否有数据
 
-	w=uart.readall()#读出串口数据
+			w=uart.readall()#读出串口数据
 
-	uart.write('You send the data to:')
+			uart.write('You send the data to:')
 
-	uart.write(w+'\n')#串口输出接收到的数据
+			uart.write(w+'\n')#串口输出接收到的数据
