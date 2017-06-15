@@ -38,11 +38,13 @@ TurnipBit的耳机使用
 	.. image:: images/TBJJ1.png
 
 	;
+	
 	2.在界面左面的命令选择区域选择需要的命令；
 
 	.. image:: images/TBJJ2.png
 
 	；
+	
 	3.在命令选择区域选择音乐，如图：
 
 	.. image:: images/EJ1.png
@@ -56,6 +58,7 @@ TurnipBit的耳机使用
 	.. image:: images/EJ3.png
 
 	6.绘制完成你想要的图案后，点击左下角的下载hex，即可得到想要的固件；
+	
 	7.在Turnipbit插上电脑后，出现一个盘符，打开盘符，把刚刚下载的固件复制进去，在复制固件进去的时候，板载的黄色指示灯会闪烁，同时在电脑界面会出现如下界面：
 
 	.. image:: images/TBJJ11.png
