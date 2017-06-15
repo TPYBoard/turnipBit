@@ -40,7 +40,7 @@ TurnipBit开发板按键控制显示图形
 
 	.. image:: images/T3.png
 	
-	.. image:: images/T1.png
+	.. image:: images/T8.png
 
 1、制作流程
 ---------------------
