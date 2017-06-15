@@ -15,7 +15,7 @@ TurnipBit向全世界说“hello world”
 --------------------------
 	
 	利用TurnipBit开发板板载的5*5LED点阵完成循环显示字符“hello world”。
-	 
+	
 2、所需器件
 ---------------------------
 
@@ -42,57 +42,57 @@ TurnipBit向全世界说“hello world”
 1、制作流程
 -------------------
 
-1.在打开网址http://turnipbit.tpyboard.com/之后，点击界面右上角的“编辑器”，进入图形编辑界面，如下图
+	1.在打开网址http://turnipbit.tpyboard.com/之后，点击界面右上角的“编辑器”，进入图形编辑界面，如下图
 
-.. image:: images/TBJJ1.png
+	.. image:: images/TBJJ1.png
 
-;
-2.在界面左面的命令选择区域选择需要的命令；
+	;
+	2.在界面左面的命令选择区域选择需要的命令；
 
-.. image:: images/TBJJ2.png
+	.. image:: images/TBJJ2.png
 
-3.因为想要LED点阵显示字符串，所以要选择一个字符串显示的命令，可以看到，在左面的图形编程框中放入新的命令后，在右面的MicroPython代码显示框中，会出现相应的代码语句，如下图：
-3.1点击左侧命令选择区域的“显示”；
+	3.因为想要LED点阵显示字符串，所以要选择一个字符串显示的命令，可以看到，在左面的图形编程框中放入新的命令后，在右面的MicroPython代码显示框中，会出现相应的代码语句，如下图：
+	3.1点击左侧命令选择区域的“显示”；
 
-.. image:: images/TBJJ4.png
+	.. image:: images/TBJJ4.png
 
-3.2在显示中选择箭头所指的字符串输出命令；
+	3.2在显示中选择箭头所指的字符串输出命令；
 
-.. image:: images/LED2.png
+	.. image:: images/LED2.png
 
-3.3选中字符串输出命令；
+	3.3选中字符串输出命令；
 
-.. image:: images/LED3.png
+	.. image:: images/LED3.png
 
-4.因为要循环显示，所以要加入一个循环，如下图：
-4.1点击命令选择区域的“循环”；
+	4.因为要循环显示，所以要加入一个循环，如下图：
+	4.1点击命令选择区域的“循环”；
 
-.. image:: images/LED5.png
+	.. image:: images/LED5.png
 
-4.2把循环命令加入图形编辑框；
+	4.2把循环命令加入图形编辑框；
 
-.. image:: images/LED6.png
+	.. image:: images/LED6.png
 
-4.3循环需要一个循环条件，这里把循环条件设置成无线循环，点击命令选着区域的“逻辑”；
+	4.3循环需要一个循环条件，这里把循环条件设置成无线循环，点击命令选着区域的“逻辑”；
 
-.. image:: images/LED7.png
+	.. image:: images/LED7.png
 
-4.4选择“ture”；
+	4.4选择“ture”；
 
-.. image:: images/LED8.png
+	.. image:: images/LED8.png
 
-4.5把循环条件放入到循环命令的判断接口；
+	4.5把循环条件放入到循环命令的判断接口；
 
-.. image:: images/LED9.png
+	.. image:: images/LED9.png
 
-4.6把要循环执行的任务放到循环命令的执接口中；
+	4.6把要循环执行的任务放到循环命令的执接口中；
 
-.. image:: images/LED10.png
+	.. image:: images/LED10.png
 
 
-5.绘制完成你想要的图案后，点击左下角的下载hex，即可得到想要的固件；
-6.在Turnipbit插上电脑后，出现一个盘符，打开盘符，把刚刚下载的固件复制进去，在复制固件进去的时候，板载的黄色指示灯会闪烁，同时在电脑界面会出现如下界面：
+	5.绘制完成你想要的图案后，点击左下角的下载hex，即可得到想要的固件；
+	6.在Turnipbit插上电脑后，出现一个盘符，打开盘符，把刚刚下载的固件复制进去，在复制固件进去的时候，板载的黄色指示灯会闪烁，同时在电脑界面会出现如下界面：
 
-.. image:: images/TBJJ11.png
+	.. image:: images/TBJJ11.png
 
-7.当固件复制完成后，Turnipbit会自动执行新的程序。
+	7.当固件复制完成后，Turnipbit会自动执行新的程序。
