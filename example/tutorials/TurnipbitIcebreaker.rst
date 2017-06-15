@@ -46,6 +46,7 @@ TurnipBit的快速入门
 	.. image:: images/TBJJ6.png
 
 	4.在加入图形显示命令后，再次选择命令选择区域中的图像框，加入图像编程框中，如下图：
+	
 	4.1选择左侧命令选择区域的图形；
 
 	.. image:: images/TBJJ7.png
