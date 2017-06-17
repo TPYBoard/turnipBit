@@ -19,7 +19,7 @@ TurnipBit向全世界说“hello world”
 2、所需器件
 ---------------------------
 
-	TurnipBit开发板开发板  一块
+	TurnipBit开发板		一块
 
 	5*5LED点阵为板载器件
 
