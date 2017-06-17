@@ -11,7 +11,7 @@ TurnipBit是什么
 2.Turnipbit板载器件简介
 -------------------------------
 
-	.. image:: images/T1.png
+	.. image:: images/T5.gif
 
 2.1主控芯片简介
 ------------------------
