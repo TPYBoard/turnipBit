@@ -1,7 +1,7 @@
 TurnipBit开发环境介绍
 =========================
 
-	Turnipbit支持图形编程和MicroPython编程两种语言编程方式。Turnipbit编程是在Turnipbit的在线编程网站上进行的，这篇文章详细介绍一下Turnipbit在线编程网站的用法。
+	TurnipBit支持图形编程和MicroPython编程两种语言编程方式。TurnipBit编程是在TurnipBit的在线编程网站上进行的，这篇文章详细介绍一下TurnipBit在线编程网站的用法。
 
 1.首界面介绍
 ------------------
@@ -10,15 +10,15 @@ TurnipBit开发环境介绍
 
 	.. image:: images/SY.png
 
-	点开网址http://turnipbit.tpyboard.com/之后，进入到在线编程网站的首页。两列小火车一直在对着开。
+	点开网址http://TurnipBit.tpyboard.com/之后，进入到在线编程网站的首页。两列小火车一直在对着开。
 	
-	点击快速入门，会跳转到Turnipbit的简要介绍和使用入门的见到教程中。如下图：
+	点击快速入门，会跳转到TurnipBit的简要介绍和使用入门的见到教程中。如下图：
 
 	.. image:: images/SY1.png
 
-	点击“关于我们”可以查看Turnipbit的简要介绍和基本概念，
+	点击“关于我们”可以查看TurnipBit的简要介绍和基本概念，
 	
-	点击在线商城会跳转到Turnipbit的购买链接。
+	点击在线商城会跳转到TurnipBit的购买链接。
 
 2.在线编程界面介绍
 ---------------------------
@@ -50,7 +50,7 @@ TurnipBit开发环境介绍
 
 	这次的使用方法讲解采用一个利用板载LED显示图案的例子来讲解，方便大家理解。
 	
-	1.在打开网址http://turnipbit.tpyboard.com/之后，点击界面右上角的“编辑器”，进入图形编辑界面，如下图
+	1.在打开网址http://TurnipBit.tpyboard.com/之后，点击界面右上角的“编辑器”，进入图形编辑界面，如下图
 
 	.. image:: images/TBJJ1.png
 
@@ -91,9 +91,9 @@ TurnipBit开发环境介绍
 
 	6.绘制完成你想要的图案后，点击左下角的下载hex，即可得到想要的固件；
 	
-	7.在Turnipbit插上电脑后，出现一个盘符，打开盘符，把刚刚下载的固件复制进去，在复制固件进去的时候，板载的黄色指示灯会闪烁，同时在电脑界面会出现如下界面：
+	7.在TurnipBit插上电脑后，出现一个盘符，打开盘符，把刚刚下载的固件复制进去，在复制固件进去的时候，板载的黄色指示灯会闪烁，同时在电脑界面会出现如下界面：
 
 	.. image:: images/TBJJ11.png
 
-	8.当固件复制完成后，Turnipbit会自动执行新的程序。
+	8.当固件复制完成后，TurnipBit会自动执行新的程序。
 
