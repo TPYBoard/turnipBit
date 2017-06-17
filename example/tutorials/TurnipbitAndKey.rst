@@ -55,6 +55,7 @@ TurnipBit开发板按键控制显示图形
 	.. image:: images/TBJJ2.png
 
 	3.因为想要LED点阵显示字符串，所以要选择一个字符串显示的命令，可以看到，在左面的图形编程框中放入新的命令后，在右面的MicroPython代码显示框中，会出现相应的代码语句，如下图：
+	
 	3.1点击左侧命令选择区域的“显示”；
 
 	.. image:: images/TBJJ4.png
@@ -68,6 +69,7 @@ TurnipBit开发板按键控制显示图形
 	.. image:: images/LE4.png
 
 	4.因为要让程序一直循环执行来扫面按键状态，所以要加入一个循环，如下图：
+	
 	4.1点击命令选择区域的“循环”；
 
 	.. image:: images/LED5.png
@@ -93,6 +95,7 @@ TurnipBit开发板按键控制显示图形
 	.. image:: images/LED10.png
 
 	5.要做按键的控制，必须要加入按键如下图；
+	
 	5.1点击命令选择区域的“按键”；
 
 	.. image:: images/LE2.png
@@ -106,6 +109,7 @@ TurnipBit开发板按键控制显示图形
 	.. image:: images/LE5.png
 
 	6.上面工作完成后，剩下的就是要做判断了，一直循环着判断A和B有没有按下，如图：
+	
 	6.1点击命令选择区域“逻辑”；
 
 	.. image:: images/LE6.png
