@@ -107,6 +107,6 @@ TurnipBit是什么
 
 	引出接口数目如下表：
 
-	.. image:: images/B1.png
+	.. image:: images/B11.png
 	
 	详细接口位置信息详见Turnipbit针脚图，接口使用方法详见例程示例教程文档。
