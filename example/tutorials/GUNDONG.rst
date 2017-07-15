@@ -17,6 +17,6 @@
 
 	.. image:: images/DUNDONNG1.gif
 
-	`小试牛刀`_.
+	学习了上面的知识，猛戳`小试牛刀`_. 试试身手吧
 
 	.. 小试牛刀: http://turnipbit.tpyboard.com/
