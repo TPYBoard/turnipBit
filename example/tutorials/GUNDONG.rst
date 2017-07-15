@@ -17,6 +17,6 @@
 
 	.. image:: images/DUNDONNG1.gif
 
-	`小试牛刀`_.
+	小试牛刀
 
 	.. 小试牛刀: http://turnipbit.tpyboard.com/
