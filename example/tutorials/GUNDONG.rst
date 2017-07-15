@@ -17,4 +17,6 @@
 
 	.. image:: images/DUNDONNG1.gif
 
-	我们开始吧 link: http://turnipbit.tpyboard.com/
+	This is a paragraph that contains `a link`_.
+
+	.. _a link: http://turnipbit.tpyboard.com/
