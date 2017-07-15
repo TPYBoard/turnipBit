@@ -1,4 +1,4 @@
-滚动消息
+	滚动消息
 =====================
 
 	.. image:: images/DUNDONNG2.png
@@ -7,9 +7,8 @@
 
 	.. image:: images/DUNDONNG.gif
 
-
-	**循环显示“Hello，TurnipBit”**
-------------------------------------------
+	**循环显示“Hello，TurnipBit”
+========================================
 
 	做一个小程序，展示“Hello，TurnipBit”。
 
