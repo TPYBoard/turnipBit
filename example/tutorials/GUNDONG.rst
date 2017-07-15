@@ -17,4 +17,4 @@
 
 	.. image:: images/DUNDONNG1.gif
 
-.. link: http://turnipbit.tpyboard.com/
+_a link: http://turnipbit.tpyboard.com/
