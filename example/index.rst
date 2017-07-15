@@ -48,3 +48,4 @@ TurnipBit 实例教程
    tutorials/UsartMagneticSensor.rst
    tutorials/UsartADC.rst
    tutorials/AccelerationSensor.rst
+   tutorials/GUNDONG.rst
