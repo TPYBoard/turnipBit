@@ -11,7 +11,7 @@
 
 		.. image:: images/DUNDONNG2.png
 
-		TurnipBit上面自带一个由高亮LED组成的显示屏，且TurnipBit中有专用的字符显示功能，可以随心所欲的显示想显示的英文字符。
+		TurnipBit上面自带一个由高亮LED组成的显示屏，使用滚动消息拼，可以随心所欲的显示想显示的英文字符。
 
 	*滚动消息拼拖拽*
 
