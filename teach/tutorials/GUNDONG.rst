@@ -34,6 +34,11 @@
 			while True:
 			  display.scroll('XuXiangyu')
 
+	*视频抢先看*
+	
+		想先看看实拍视频抢先尝鲜？ `点击这里`_。
+		
+		.. _立即编程: https://v.qq.com/x/page/e0509rnqn5r.html
 
 	**小试牛刀**
 
