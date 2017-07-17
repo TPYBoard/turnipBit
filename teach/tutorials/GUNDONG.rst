@@ -43,7 +43,7 @@
 	**小试牛刀**
 
 
-		 `立即编程`_					 `下载HEX`_
+		 `立即编程`_                   `下载HEX`_
 
 		.. _立即编程: http://turnipbit.tpyboard.com/
 
