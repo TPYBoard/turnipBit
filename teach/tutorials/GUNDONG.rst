@@ -49,4 +49,4 @@
 
 		 `下载HEX`_
 
-		.. _下载HEX: images/XXY.hex
+		.. _下载HEX: http://pan.baidu.com/s/1eRWK98m
