@@ -17,6 +17,6 @@
 
 	.. image:: images/xxy.gif
 
-	Let's Go `GO`_.
+	This is a paragraph that contains `GO`_.
 
 	.. GO: http://turnipbit.tpyboard.com/
