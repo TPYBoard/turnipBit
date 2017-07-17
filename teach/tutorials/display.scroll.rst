@@ -16,6 +16,10 @@
 	'滚动消息拼'的动画
 
 	.. image:: images/display/display.scroll.gif
+	
+	`查看原图`_
+
+		.. 查看原图: images/display/display.scroll.gif
 
 
 
