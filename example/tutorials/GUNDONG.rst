@@ -17,6 +17,6 @@
 
 	.. image:: images/xxy.gif
 
-	学习了上面的知识，猛戳 `小试牛刀`_. 试试身手吧
+	This is a paragraph that contains `a link`_.
 
-	.. 小试牛刀: http://turnipbit.tpyboard.com/
+	.. _a link: http://turnipbit.tpyboard.com/
