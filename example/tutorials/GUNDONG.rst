@@ -17,6 +17,6 @@
 
 	.. image:: images/xxy.gif
 
-	This is a paragraph that contains `GO`_.
+	This is a paragraph that contains `a link`_.
 
-	.. GO: http://turnipbit.tpyboard.com/
+	.. _a link: http://turnipbit.tpyboard.com/
