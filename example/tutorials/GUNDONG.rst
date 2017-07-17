@@ -17,6 +17,6 @@
 
 	.. image:: images/xxy.gif
 
-	学习了上面的知识，是不是手痒想试试身手？猛戳 `GO`_.
+	 `GO`_.
 
 	.. GO: http://turnipbit.tpyboard.com/
