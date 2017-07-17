@@ -53,6 +53,7 @@ Projects related to MicroPython on the BBC micro:bit include:
     tutorials/radio
     tutorials/next
     example/index
+    teach/index
 
 .. toctree::
    :maxdepth: 2
