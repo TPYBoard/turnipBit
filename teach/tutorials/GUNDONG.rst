@@ -15,7 +15,7 @@
 
 	*滚动消息拼拖拽*
 
-		.. image:: images/DUNDONNG.gif
+		.. image:: images/0012.gif
 
 
 
