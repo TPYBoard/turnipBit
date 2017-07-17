@@ -42,4 +42,4 @@
 
 		 `下载HEX`_.
 
-		 _下载HEX: .. image:: images/XXY.hex
+		 _下载HEX: images/XXY.hex
