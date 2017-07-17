@@ -13,4 +13,4 @@ TurnipBit 拖拽控件教程
 .. toctree::
    :maxdepth: 1
 
-   tutorials/GUNDONG.rst
+   tutorials/display.scroll.rst
