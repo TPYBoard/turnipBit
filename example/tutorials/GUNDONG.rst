@@ -17,6 +17,6 @@
 
 	.. image:: images/xxy.gif
 
-	 `GO`_.
+	Let's Go `GO`_.
 
 	.. GO: http://turnipbit.tpyboard.com/
