@@ -28,12 +28,12 @@
 
 		.. image:: images/xxy.png
 
-		MicroPython代码::
+	*MicroPython代码*::
+	
+		from microbit import *
 		
-			from microbit import *
-			
-			while True:
-			  display.scroll('XuXiangyu')
+		while True:
+		  display.scroll('XuXiangyu')
 
 	*视频抢先看*
 	
