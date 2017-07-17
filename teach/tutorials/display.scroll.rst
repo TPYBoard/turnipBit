@@ -18,8 +18,8 @@
 	.. image:: images/display/display.scroll.gif
 	
 	`查看原图`_
-
-		.. 查看原图: images/display/display.scroll.gif
+		
+		.. _查看原图: images/display/display.scroll.gif
 
 
 
