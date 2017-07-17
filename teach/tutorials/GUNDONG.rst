@@ -28,7 +28,7 @@
 
 		.. image:: images/xxy.png
 
-	*MicroPython代码*::
+	*MicroPython代码*
 	
 		from microbit import *
 		
