@@ -7,17 +7,17 @@
 **滚动消息说明**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 	
-	'滚动消息拼'的图例
+	[滚动消息拼]的图例
 
 	.. image:: images/display/display.scroll.ex00.png
 
-	使用'滚动消息拼'在TurnipBit显示屏上滚动显示的英文。
+	使用[滚动消息拼]在TurnipBit显示屏上滚动显示的英文。
 
-	'滚动消息拼'的动画
+	[滚动消息拼]的动画
 
 	.. image:: images/display/display.scroll.gif
 	
-	`查看原图`
+	`查看原图`_
 
 		.. 查看原图: images/display/display.scroll.gif
 
