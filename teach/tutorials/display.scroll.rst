@@ -19,7 +19,7 @@
 	
 	`查看原图`_
 	
-	.. _查看原图: images/display/display.scroll.gif
+	.. _查看原图: http://docs.turnipbit.com/zh/latest/_images/display.scroll.gif
 
 
 
