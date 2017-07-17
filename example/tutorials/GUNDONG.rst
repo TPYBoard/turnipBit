@@ -5,17 +5,17 @@
 
 	.. image:: images/DUNDONNG.gif
 
-	TurnipBit自带滚动文本消息的函数，调用此函数即可完成在TurnipBit板载5*5LED点阵上滚动显示文本消息。
+	TurnipBit上面自带一个由高亮LED组成的显示屏，且TurnipBit中有专用的字符显示功能，可以随心所欲的显示想显示的英文字符。
 
 
-**循环显示“Hello，TurnipBit”**
+**滚动的名牌**
 ----------------------------------------
 
-	做一个小程序，展示“Hello，TurnipBit”。
+	做一个小程序，在TurnipBit自带的显示屏上滚动显示自己名字的拼音。
 
-	.. image:: images/DUNDONNG3.png
+	.. image:: images/xxy.png
 
-	.. image:: images/DUNDONNG1.gif
+	.. image:: images/xxy.gif
 
 	学习了上面的知识，猛戳 `小试牛刀`_ 试试身手吧
 
