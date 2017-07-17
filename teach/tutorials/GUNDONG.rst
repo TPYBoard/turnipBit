@@ -1,34 +1,34 @@
 显示
 ================
 
-**滚动消息**
-----------------------------
+	**滚动消息**
+	----------------------------
 
-**滚动消息命令简介**
+	**滚动消息命令简介**
 
-	.. image:: images/DUNDONNG2.png
+		.. image:: images/DUNDONNG2.png
 
-	TurnipBit上面自带一个由高亮LED组成的显示屏，且TurnipBit中有专用的字符显示功能，可以随心所欲的显示想显示的英文字符。
+		TurnipBit上面自带一个由高亮LED组成的显示屏，且TurnipBit中有专用的字符显示功能，可以随心所欲的显示想显示的英文字符。
 
-*滚动消息命令使用方法*
+	*滚动消息命令使用方法*
 
-	.. image:: images/DUNDONNG.gif
-
-
-
-**滚动的名牌**
+		.. image:: images/DUNDONNG.gif
 
 
-	做一个小程序，在TurnipBit自带的显示屏上滚动显示自己名字的拼音。
 
-*示例代码截图*
-
-	.. image:: images/xxy.png
+	**滚动的名牌**
 
 
-**小试牛刀**
+		做一个小程序，在TurnipBit自带的显示屏上滚动显示自己名字的拼音。
+
+	*示例代码截图*
+
+		.. image:: images/xxy.png
 
 
-	学习了上面的知识，是不是手痒想试试身手？猛戳 `小试牛刀`_.
+	**小试牛刀**
 
-	.. _小试牛刀: http://turnipbit.tpyboard.com/
+
+		学习了上面的知识，是不是手痒想试试身手？猛戳 `小试牛刀`_.
+
+		.. _小试牛刀: http://turnipbit.tpyboard.com/
