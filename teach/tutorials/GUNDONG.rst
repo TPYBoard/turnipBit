@@ -24,9 +24,9 @@
 
 	在TurnipBit自带的显示屏上滚动显示自己名字的拼音。
 
-	*示例代码截图*::
+	*示例代码截图*
 
-		.. image:: images/xxy.png
+	.. image:: images/xxy.png
 
 	*MicroPython代码*
 	
