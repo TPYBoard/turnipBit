@@ -25,6 +25,13 @@
 
 		.. image:: images/xxy.png
 
+		MicroPython代码::
+		
+			from microbit import *
+			
+			while True:
+			  display.scroll('XuXiangyu')
+
 
 	**小试牛刀**
 
