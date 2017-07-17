@@ -9,13 +9,13 @@
 	
 	"滚动消息拼"的图例
 
-	.. image:: images/display.scroll.ex00.png
+	.. image:: images/display/display.scroll.ex00.png
 
 	使用"滚动消息拼"在TurnipBit显示屏上滚动显示的英文。
 
 	"滚动消息拼"的动画
 
-	.. image:: images/display.scroll.gif
+	.. image:: images/display/display.scroll.gif
 
 
 
@@ -26,7 +26,7 @@
 
 	拼插源码
 
-	.. image:: images/display.scroll.ex01.png
+	.. image:: images/display/display.scroll.ex01.png
 
 	实例源码::
 
