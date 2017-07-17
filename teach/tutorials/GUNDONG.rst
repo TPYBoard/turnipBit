@@ -12,7 +12,7 @@
 
 		TurnipBit上面自带一个由高亮LED组成的显示屏，且TurnipBit中有专用的字符显示功能，可以随心所欲的显示想显示的英文字符。
 
-	*滚动消息命令使用方法*
+	*滚动消息拼拖拽*
 
 		.. image:: images/DUNDONNG.gif
 
