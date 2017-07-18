@@ -15,7 +15,7 @@
 
 	[获取指定LED亮度拼]的动画
 
-	
+	.. image:: images/display/display.get_pixel.gif
 
 **滚动消息**
 ----------------------------
