@@ -152,25 +152,27 @@
 
 **滚动消息例程**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-	动手做一个挂在胸前的电子名牌。
-
-	拼插源码
-
-	.. image:: images/display/display.scroll.ex01.png
-
-	实例源码::
-
-		from microbit import *
-		
-		while True:
-		  display.scroll('TurnipBit')
-
-	视频抢先看
 	
-		想先看看实拍视频尝尝鲜？ `点击这里`_。
-		
-		.. _点击这里: https://v.qq.com/x/page/e0509rnqn5r.html
+	**电子名牌**
+	
+		动手做一个挂在胸前的电子名牌。
+
+		拼插源码
+
+		.. image:: images/display/display.scroll.ex01.png
+
+		实例源码::
+
+			from microbit import *
+
+			while True:
+			  display.scroll('TurnipBit')
+
+		视频抢先看
+
+			想先看看实拍视频尝尝鲜？ `点击这里`_。
+
+			.. _点击这里: https://v.qq.com/x/page/e0509rnqn5r.html
 
 **小试牛刀**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
