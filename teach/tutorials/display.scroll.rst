@@ -97,6 +97,37 @@
 
 	.. image:: images/display/display.show.gif
 
+	**显示图像例程**
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+	动手DIY一颗跳动的心。
+
+	拼插源码
+
+	.. image:: images/display/display.shows.png
+
+	实例源码::
+
+		from microbit import *
+
+		while True:
+		  display.show(Image.HEART)
+		  sleep(500)
+		  display.show(Image.HEART_SMALL)
+		  sleep(500)
+
+**小试牛刀**
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+		 `立即编程`_
+
+		.. _立即编程: http://turnipbit.tpyboard.com/
+
+		 `下载 display.shows HEX`_
+
+		.. _下载 display.shows HEX: http://pan.baidu.com/s/1jHRSP3S
+
 **滚动消息**
 ----------------------------
 
