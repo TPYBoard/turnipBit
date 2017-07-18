@@ -61,9 +61,9 @@
 
 		.. _立即编程: http://turnipbit.tpyboard.com/
 
-		 `下载HEX1`_
+		 `下载 display.set_pixel HEX`_
 
-		.. _下载HEX1: http://pan.baidu.com/s/1qYDdBac
+		.. _下载 display.set_pixel HEX: http://pan.baidu.com/s/1qYDdBac
 
 
 **滚动消息**
