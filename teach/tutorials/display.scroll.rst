@@ -17,6 +17,11 @@
 
 	.. image:: images/display/display.get_pixel.gif
 
+**[设置指定LED亮度拼]图例
+------------------------------------
+
+display.set_pixel
+
 **滚动消息**
 ----------------------------
 
