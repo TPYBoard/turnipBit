@@ -32,7 +32,7 @@
 
 	[设置指定LED亮度拼]动画
 
-	
+	.. image:: images/display/display.set_pixel.gif
 
 **滚动消息**
 ----------------------------
