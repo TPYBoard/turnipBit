@@ -74,11 +74,11 @@
 	[清楚显示内容拼]的图例
 
 	.. image:: images/display/display.clear.png
-	
+
 	利用[清楚显示内容拼]清除当前LED显示屏上面的显示内容。
-	
+
 	[清楚显示内容拼]的动画
-	
+
 	.. image:: images/display/display.clear.gif
 
 **滚动消息**
