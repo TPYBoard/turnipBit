@@ -118,6 +118,6 @@
 
 		.. _立即编程: http://turnipbit.tpyboard.com/
 
-		 `下载HEX`_
+		 `下载 display.scroll HEX`_
 
-		.. _下载HEX: http://pan.baidu.com/s/1eRWK98m
+		.. _下载 display.scroll HEX: http://pan.baidu.com/s/1eRWK98m
