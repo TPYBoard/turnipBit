@@ -34,6 +34,25 @@
 
 	.. image:: images/display/display.set_pixel.gif
 
+**设置指定LED亮度例程**
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+	动手DIY一个忽闪忽闪的小灯。
+
+	拼插源码
+
+	.. image:: images/display/display.set_pixelh.png
+
+	实例源码::
+
+		from microbit import *
+
+		while True:
+		  display.set_pixel(0, 0, 9)
+		  sleep(500)
+		  display.set_pixel(0, 0, 0)
+		  sleep(500)
+
 **滚动消息**
 ----------------------------
 
