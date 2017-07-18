@@ -53,6 +53,18 @@
 		  display.set_pixel(0, 0, 0)
 		  sleep(500)
 
+**小试牛刀**
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+		 `立即编程`_
+
+		.. _立即编程: http://turnipbit.tpyboard.com/
+
+		 `下载HEX`_
+
+		.. _下载HEX: http://pan.baidu.com/s/1qYDdBac
+
 **滚动消息**
 ----------------------------
 
