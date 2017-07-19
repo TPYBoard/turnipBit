@@ -27,7 +27,7 @@
 
 		拼插源码
 
-		.. image:: images/display/button_a.is_pressed1.png
+		.. image:: images/display/button_a.is_pressed2.png
 
 		实例源码::
 
