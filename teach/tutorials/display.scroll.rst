@@ -7,11 +7,15 @@
 **获取指定LED亮度说明**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-	[获取指定LED亮度拼]的图例
+	[获取指定LED亮度插]的图例
 
 	.. image:: images/display/display.get_pixel.png
 
-	使用[获取指定LED亮度拼]获取指定位置的LED的当前亮度，其中第一个参数为指定LED的X轴坐标，第二个参数为指定LED的Y轴坐标。其中两个参数的取值范围均为0-4。
+	功能：获取指定位置的LED的当前亮度。
+
+	参数：
+		- 第一个参数为指定LED的X轴坐标，取值范围为0-4。
+		- 第二个参数为指定LED的Y轴坐标，取值范围为0-4。
 
 	[获取指定LED亮度拼]的动画
 
@@ -20,22 +24,29 @@
 **设置指定LED亮度**
 ---------------------------------------
 
-**设置指定LED亮度说明**
+**设置指定LED亮度的说明**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-	**[设置指定LED亮度拼]图例**
+	**[设置指定LED亮度拼]的图例**
 
 
 	.. image:: images/display/display.set_pixel.png
 
-	使用[设置指定LED亮度拼]设置指定位置的LED灯的亮度，其中其中第一个参数为指定LED的X轴坐标，第二个参数为指定LED的Y轴坐标，第三个股参数为设定LED的亮度值。前两个参数的取值范围均为0-4，第三个参数的取值范围为0-9。
+	功能：设置指定位置的LED灯的亮度。
+	参数：
+		- 第一个参数为指定LED的X轴坐标，取值范围为0-4。
+		- 第二个参数为指定LED的Y轴坐标，取值范围为0-4。
+		- 第三个参数为设定LED的亮度值，取值范围为0-9。
 
-	[设置指定LED亮度拼]动画
+	[设置指定LED亮度拼]的动画
 
 	.. image:: images/display/display.set_pixel.gif
 
-**设置指定LED亮度例程**
+**设置指定LED亮度的例程**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+忽闪忽闪小蓝灯
+::::::::::::::::::::::::::::::
 
 	动手DIY一个忽闪忽闪的小灯。
 
@@ -63,19 +74,19 @@
 
 		 `下载 display.set_pixel HEX`_
 
-		.. _下载 display.set_pixel HEX: http://pan.baidu.com/s/1qYDdBac
+		.. _下载 display.set_pixel HEX: http://turnipbit.com/download.php?fn=display.set_pixel.hex
 
 **清楚显示内容**
 ---------------------------
 
-**清除显示内容说明**
+**清除显示内容的说明**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 	[清除显示内容拼]的图例
 
 	.. image:: images/display/display.clear.png
 
-	利用[清除显示内容拼]清除当前LED显示屏上面的显示内容。
+	功能：清除当前LED显示屏上面的显示内容。
 
 	[清除显示内容拼]的动画
 
@@ -84,14 +95,14 @@
 **显示图像**
 ---------------------------
 
-**显示图像说明**
+**显示图像的说明**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 	[显示图像拼]的图例
 
 	.. image:: images/display/display.show.png
 
-	利用[显示图像拼]在LED显示屏上面显示相应的图案，此拼必须配合图形块中的插使用。
+	功能：在LED显示屏上面显示相应的图案，此拼必须配合图形块中的插使用。
 
 	[显示图像拼]的动画
 
@@ -99,6 +110,9 @@
 
 **显示图像例程**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+激动的心
+::::::::::::::::::
 
 	动手DIY一颗跳动的心。
 
@@ -126,7 +140,7 @@
 
 		 `下载 display.shows HEX`_
 
-		.. _下载 display.shows HEX: http://pan.baidu.com/s/1jHRSP3S
+		.. _下载 display.shows HEX: http://turnipbit.com/download.php?fn=display.shows.hex
 
 **滚动消息**
 ----------------------------
@@ -185,4 +199,4 @@
 
 		 `下载 display.scroll HEX`_
 
-		.. _下载 display.scroll HEX: http://pan.baidu.com/s/1eRWK98m
+		.. _下载 display.scroll HEX: http://turnipbit.com/download.php?fn=display.scroll.hex
