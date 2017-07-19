@@ -7,13 +7,13 @@
 **按键A被按下的说明**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-	[按键A被按下插]的图例
+	**[按键A被按下插]的图例**
 
 	.. image:: images/button/button_a.is_pressed.png
 
 	功能：用来判断按键A是否被按下，返回值为真或假，一般作为判断条件使用。
 
-	[按键A被按下插]的动画
+	**[按键A被按下插]的动画**
 
 	.. image:: images/button/button_a.is_pressed.gif
 
@@ -58,13 +58,13 @@
 **按键A曾经按下的说明**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-	[按键A曾经按下插]的图例
+	**[按键A曾经按下插]的图例**
 
 	.. image:: images/button/button_a.was_presses.png
 
 	功能：用来判断按键A是否曾经被按下，返回值为真或假，一般作为判断条件使用。
 
-	[按键A曾经按下插]的动画
+	**[按键A曾经按下插]的动画**
 
 	.. image:: images/button/button_a.was_pressed.gif
 
@@ -74,12 +74,12 @@
 **按键A按下的次数的说明**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-	[按键A按下的次数插]的图例
+	**[按键A按下的次数插]的图例**
 
 	.. image:: images/button/button_a.get_presses.png
 
 	功能：用来判断按键A是否曾经被按下，返回值为当前按键A按下的次数。
 
-	[按键A按下的次数插]的动画
+	**[按键A按下的次数插]的动画**
 
 	.. image:: images/button/button_a.get_presses.gif
