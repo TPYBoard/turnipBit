@@ -11,7 +11,7 @@
 
 	.. image:: images/button/button_a.is_pressed.png
 
-	功能：打开板载LED显示屏。
+	功能：用来判断按键A是否被按下，返回值为真或假，一般作为判断条件使用。
 
 	[按键A被按下插]的动画
 
