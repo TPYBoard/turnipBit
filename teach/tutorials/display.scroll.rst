@@ -255,3 +255,19 @@
 	[关闭屏幕拼]的动画
 
 	.. image:: images/display/display.off.gif
+
+**关闭屏幕**
+---------------------------
+
+**显示是否打开的说明**
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+	[显示是否打开拼]的图例
+
+	.. image:: images/display/display.is_on.png
+
+	功能：判断板载LED显示屏是否打开，返回量为真或假，常作为判断条件使用。
+
+	[显示是否打开拼]的动画
+
+	.. image:: images/display/display.is_on.gif
