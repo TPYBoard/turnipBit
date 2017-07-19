@@ -33,6 +33,7 @@
 	.. image:: images/display/display.set_pixel.png
 
 	功能：设置指定位置的LED灯的亮度。
+
 	参数：
 		- 第一个参数为指定LED的X轴坐标，取值范围为0-4。
 		- 第二个参数为指定LED的Y轴坐标，取值范围为0-4。
@@ -76,7 +77,7 @@
 
 		.. _下载 display.set_pixel HEX: http://turnipbit.com/download.php?fn=display.set_pixel.hex
 
-**清楚显示内容**
+**清除显示内容**
 ---------------------------
 
 **清除显示内容的说明**
