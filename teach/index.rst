@@ -14,3 +14,4 @@ TurnipBit 拼插控件教程
    :maxdepth: 1
 
    tutorials/display.scroll.rst
+   tutorials/button.rst
