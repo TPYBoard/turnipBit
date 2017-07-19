@@ -1,6 +1,6 @@
 .. _tutorial-example-index:
 
-TurnipBit 拖拽控件教程
+TurnipBit 拼插控件教程
 ====================
 
 本教程的目的是初步学习TurnipBit开发板的拖拽控件
