@@ -238,7 +238,7 @@
 
 	[打开屏幕拼]的动画
 
-	.. image:: images/display/display.on.gif
+	.. image:: images/display/display.on1.gif
 
 **关闭屏幕**
 ---------------------------
@@ -254,7 +254,7 @@
 
 	[关闭屏幕拼]的动画
 
-	.. image:: images/display/display.off.gif
+	.. image:: images/display/display.off1.gif
 
 **显示是否打开**
 ---------------------------
@@ -270,4 +270,4 @@
 
 	[显示是否打开拼]的动画
 
-	.. image:: images/display/display.is_on.gif
+	.. image:: images/display/display.is_on1.gif
