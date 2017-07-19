@@ -52,21 +52,21 @@
 
 		.. _下载 display.scroll HEX: http://turnipbit.com/download.php?fn=button_a.is_pressed.hex
 
-**关闭屏幕**
+**按键A曾经按下**
 ---------------------------
 
-**关闭屏幕的说明**
+**按键A曾经按下的说明**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-	[关闭屏幕拼]的图例
+	[按键A曾经按下插]的图例
 
-	.. image:: images/button/button.off.png
+	.. image:: images/button/button_a.was_pressed.png
 
-	功能：打开板载LED显示屏。
+	功能：用来判断按键A是否曾经被按下，返回值为真或假，一般作为判断条件使用。
 
-	[关闭屏幕拼]的动画
+	[按键A曾经按下插]的动画
 
-	.. image:: images/button/button.off.gif
+	.. image:: images/button/button_a.was_pressed.gif
 
 **显示是否打开**
 ---------------------------
