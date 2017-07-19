@@ -68,18 +68,18 @@
 
 	.. image:: images/button/button_a.was_pressed.gif
 
-**显示是否打开**
+**按键A按下的次数**
 ---------------------------
 
-**显示是否打开的说明**
+**按键A按下的次数的说明**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-	[显示是否打开拼]的图例
+	[按键A按下的次数插]的图例
 
-	.. image:: images/button/button.is_on.png
+	.. image:: images/button/button_a.get_presses.png
 
-	功能：判断板载LED显示屏是否打开，返回量为真或假，常作为判断条件使用。
+	功能：用来判断按键A是否曾经被按下，返回值为当前按键A按下的次数。
 
-	[显示是否打开拼]的动画
+	[按键A按下的次数插]的动画
 
-	.. image:: images/button/button.is_on.gif
+	.. image:: images/button/button_a.get_presses.gif
