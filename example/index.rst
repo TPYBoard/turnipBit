@@ -35,6 +35,7 @@ TurnipBit 实例教程
    tutorials/UsartTXRX.rst
    tutorials/TurnipbitAndADC.rst
    tutorials/TurnipBitAndPWM.rst
+   text.html
    
    
 *TurnipBit 典型实例*
