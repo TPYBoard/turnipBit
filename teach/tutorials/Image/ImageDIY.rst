@@ -8,7 +8,7 @@
 
 	.. image:: images/Image/ImageDIY.png
 
-	功能：可以按照使用者意愿创建显示图案，完成在板载LED显示屏上显示创建的图案,使用时需配合 `显示图像拼`_ 。
+	功能：可以按照使用者意愿创建显示图案，使用者配合 `显示图像拼`_ ，完成在板载LED显示屏上显示创建的图案。
 
 	.. _显示图像拼: http://docs.turnipbit.com/zh/latest/teach/tutorials/display/display.show.html
 
