@@ -1,61 +1,63 @@
-ÏÔÊ¾¿é
+æ˜¾ç¤ºå—
 ================
 
-**¹ö¶¯ÏûÏ¢**
+**æ»šåŠ¨æ¶ˆæ¯**
 ----------------------------
 
-**¹ö¶¯ÏûÏ¢ËµÃ÷**
+**æ»šåŠ¨æ¶ˆæ¯è¯´æ˜**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 	
-	[¹ö¶¯ÏûÏ¢Æ´]µÄÍ¼Àı
+	[æ»šåŠ¨æ¶ˆæ¯æ‹¼]çš„å›¾ä¾‹
 
 	.. image:: images/display/display.scroll.ex00.png
 
-	Ê¹ÓÃ[¹ö¶¯ÏûÏ¢Æ´]ÔÚTurnipBitÏÔÊ¾ÆÁÉÏ¹ö¶¯ÏÔÊ¾µÄÓ¢ÎÄ¡£
+	ä½¿ç”¨[æ»šåŠ¨æ¶ˆæ¯æ‹¼]åœ¨TurnipBitæ˜¾ç¤ºå±ä¸Šæ»šåŠ¨æ˜¾ç¤ºçš„è‹±æ–‡ã€‚
 
-	[¹ö¶¯ÏûÏ¢Æ´]µÄ¶¯»­
+	[æ»šåŠ¨æ¶ˆæ¯æ‹¼]çš„åŠ¨ç”»
 
 	.. image:: images/display/display.scroll.gif
 	
-	`²é¿´Ô­Í¼`_
+	`æŸ¥çœ‹åŸå›¾`_
 	
-	.. _²é¿´Ô­Í¼: http://docs.turnipbit.com/zh/latest/_images/display.scroll.gif
+	.. _æŸ¥çœ‹åŸå›¾: http://docs.turnipbit.com/zh/latest/_images/display.scroll.gif
 
 
 
-**¹ö¶¯ÏûÏ¢Àı³Ì**
+**æ»šåŠ¨æ¶ˆæ¯ä¾‹ç¨‹**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 	
-**µç×ÓÃûÅÆ**
+**ç”µå­åç‰Œ**
 :::::::::::::::::::
 
-		¶¯ÊÖ×öÒ»¸ö¹ÒÔÚĞØÇ°µÄµç×ÓÃûÅÆ¡£
+		åŠ¨æ‰‹åšä¸€ä¸ªæŒ‚åœ¨èƒ¸å‰çš„ç”µå­åç‰Œã€‚
 
-		Æ´²åÔ´Âë
+		æ‹¼æ’æºç 
 
 		.. image:: images/display/display.scroll.ex01.png
 
-		ÊµÀıÔ´Âë::
+		å®ä¾‹æºç ::
 
 			from microbit import *
 
 			while True:
 			  display.scroll('TurnipBit')
 
-		ÊÓÆµÇÀÏÈ¿´
+		è§†é¢‘æŠ¢å…ˆçœ‹
 
-			ÏëÏÈ¿´¿´ÊµÅÄÊÓÆµ³¢³¢ÏÊ£¿ `µã»÷ÕâÀï`_¡£
+			æƒ³å…ˆçœ‹çœ‹å®æ‹è§†é¢‘å°å°é²œï¼Ÿ `ç‚¹å‡»è¿™é‡Œ`_ã€‚
 
-			.. _µã»÷ÕâÀï: https://v.qq.com/x/page/e0509rnqn5r.html
+			.. _ç‚¹å‡»è¿™é‡Œ: https://v.qq.com/x/page/e0509rnqn5r.html
 
-**Ğ¡ÊÔÅ£µ¶**
+**å°è¯•ç‰›åˆ€**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
-		 `Á¢¼´±à³Ì`_
+		 `ç«‹å³ç¼–ç¨‹`_
 
-		.. _Á¢¼´±à³Ì: http://turnipbit.tpyboard.com/
+		.. _ç«‹å³ç¼–ç¨‹: http://turnipbit.tpyboard.com/
 
-		 `ÏÂÔØ display.scroll HEX`_
+		 `ä¸‹è½½ display.scroll HEX`_
 
-		.. _ÏÂÔØ display.scroll HEX: http://turnipbit.com/download.php?fn=display.scroll.hex
+		.. _ä¸‹è½½ display.scroll HEX: http://turnipbit.com/download.php?fn=display.scroll.hex
+		
+		
