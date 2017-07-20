@@ -13,5 +13,5 @@ TurnipBit 拼插控件教程
 .. toctree::
    :maxdepth: 1
 
-   tutorials/display.scroll.rst
+   tutorials/display.rst
    tutorials/button.rst
