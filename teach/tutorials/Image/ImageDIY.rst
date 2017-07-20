@@ -26,7 +26,7 @@
 
 	拼插源码
 
-	.. image:: images/Image/ImageDIYS.png
+	.. image:: images/Image/imageDIYS.png
 
 	实例源码::
 
