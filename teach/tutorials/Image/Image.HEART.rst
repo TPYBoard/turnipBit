@@ -10,7 +10,7 @@
 
 	功能：TurnipBit内置三十五中内置图案，使用者配合 `显示图像拼`_ ，在板载LED显示屏上显示内置图案。
 
-	.. _[显示图像拼]: http://docs.turnipbit.com/zh/latest/teach/tutorials/display/display.show.html
+	.. _显示图像拼: http://docs.turnipbit.com/zh/latest/teach/tutorials/display/display.show.html
 
 	[内置图像插]的动画
 
