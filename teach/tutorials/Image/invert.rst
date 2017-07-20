@@ -8,9 +8,9 @@
 
 	.. image:: images/Image/invert.png
 
-	功能：反显当前插入此空间的图案，可供使用者配合 `[显示图像拼]`_ 使用，完成在板载LED显示屏上显示反显图案。
+	功能：反显当前插入此空间的图案，可供使用者配合 `显示图像拼`_ 使用，完成在板载LED显示屏上显示反显图案。
 
-	.. _[显示图像拼]:: http://docs.turnipbit.com/zh/latest/teach/tutorials/display/display.show.html
+	.. _显示图像拼: http://docs.turnipbit.com/zh/latest/teach/tutorials/display/display.show.html
 
 	[反显图像插]的动画
 
