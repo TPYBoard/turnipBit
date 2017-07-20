@@ -1,5 +1,3 @@
-.. _tutorial-example-index:
-
 TurnipBit 拼插控件教程
 ========================
 
