@@ -270,5 +270,4 @@
 
 	[显示是否打开插]的动画
 
-
 	.. image:: images/display/display.is_on.gif
