@@ -26,7 +26,7 @@
 
 	拼插源码
 
-	.. image:: images/display/display.shows.png
+	.. image:: images/Image/display.shows.png
 
 	实例源码::
 
