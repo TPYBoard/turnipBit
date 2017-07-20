@@ -15,3 +15,39 @@
 	[内置图像插]的动画
 
 	.. image:: images/Image/Image.HEART.gif
+
+**内置图像例程**
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+激动的心
+::::::::::::::::::
+
+	动手DIY一颗跳动的心。
+
+	拼插源码
+
+	.. image:: images/display/display.shows.png
+
+	实例源码::
+
+		from microbit import *
+
+		while True:
+		  display.show(Image.HEART)
+		  sleep(500)
+		  display.show(Image.HEART_SMALL)
+		  sleep(500)
+
+**小试牛刀**
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+		 `立即编程`_
+
+		.. _立即编程: http://turnipbit.tpyboard.com/
+
+		 `下载 display.shows HEX`_
+
+		.. _下载 display.shows HEX: http://turnipbit.com/download.php?fn=display.shows.hex
+		
+		
