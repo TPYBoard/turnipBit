@@ -10,13 +10,4 @@ TurnipBit 拼插控件教程
 
 .. toctree::
 	:maxdepth: 1
-	
-	display/display.get_pixel.rst
-	display/display.set_pixel.rst
-	display/display.scroll.rst
-	display/display.show.rst
-	display/display.show1.rst
-	display/display.on.rst
-	display/display.off.rst
-	display/display.is_on.rst
-	display/display.clear.rst
+
