@@ -15,4 +15,4 @@
 
 	button/button_a.is_pressed.rst
 	button/button_a.was_presses.rst
-	button/button_a.is_pressed.rst
+	button/button_a.get_presses.rst
