@@ -17,3 +17,4 @@ TurnipBit 拼插控件教程
 	tutorials/display.rst
 	tutorials/button.rst
 	tutorials/Image.rst
+	tutorials/TurnipBit.rst
