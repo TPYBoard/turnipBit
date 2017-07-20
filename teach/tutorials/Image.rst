@@ -14,5 +14,6 @@
 
 
 	Image/Image.HEART.rst
-	Image/Image_a.was_presses.rst
-	Image/Image_a.get_presses.rst
+	Image/copy.rst
+	Image/invert.rst
+	Image/ImageDIY.rst.rst
