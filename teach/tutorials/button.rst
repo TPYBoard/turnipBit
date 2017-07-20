@@ -15,7 +15,6 @@
 
 	[按键A被按下插]的动画
 
-	
 	.. image:: images/button/button_a.is_pressed.gif
 
 **按键A被按下例程**
@@ -39,7 +38,6 @@
 					display.show(Image("90009:09090:00900:09090:90009"))
 				if not button_a.is_pressed():
 					display.show(Image("09990:90009:90009:90009:09990"))
-
 
 **小试牛刀**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -67,7 +65,6 @@
 
 	[按键A曾经按下插]的动画
 
-	
 	.. image:: images/button/button_a.was_pressed.gif
 
 **按键A按下的次数**
@@ -83,6 +80,5 @@
 	功能：用来判断按键A是否曾经被按下，返回值为当前按键A按下的次数。
 
 	[按键A按下的次数插]的动画
-	
 
 	.. image:: images/button/button_a.get_presses.gif
