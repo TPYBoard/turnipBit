@@ -8,9 +8,9 @@
 
 	.. image:: images/Image/ImageDIY.png
 
-	功能：可以按照使用者意愿创建显示图案，可供使用者配合 `[显示图像拼]`_ 使用，完成在板载LED显示屏上显示创建的图案。
+	功能：可以按照使用者意愿创建显示图案，可供使用者配合 `显示图像拼`_ 使用，完成在板载LED显示屏上显示创建的图案。
 
-	.. _[显示图像拼]:: http://docs.turnipbit.com/zh/latest/teach/tutorials/display/display.show.html
+	.. _显示图像拼:: http://docs.turnipbit.com/zh/latest/teach/tutorials/display/display.show.html
 
 	[创建图像插]的动画
 
@@ -19,22 +19,25 @@
 **创建图像例程**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-激动的心
+闪烁的“木”字
 ::::::::::::::::::
 
-	动手DIY一颗跳动的心。
+	动手DIY一颗闪烁的“木”字。
 
 	拼插源码
 
-	.. image:: images/Image/invertx.png
+	.. image:: images/Image/ImageDIYS.png
 
 	实例源码::
 
 		from microbit import *
 
-		while True:
-			display.show(Image.HEART)
-			display.show(Image.HEART.invert())
+			while True:
+			display.show(Image("00900:99999:09990:90909:00900"))
+			sleep(300)
+			display.show(Image("00900:99999:09990:90909:00900").invert())
+			sleep(300)
+
 
 **小试牛刀**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -46,6 +49,6 @@
 
 		 `下载 display.shows HEX`_
 
-		.. _下载 display.shows HEX: http://turnipbit.com/download.php?fn=invertx.hex
+		.. _下载 display.shows HEX: http://turnipbit.com/download.php?fn=ImageDIYS.hex
 		
 		
