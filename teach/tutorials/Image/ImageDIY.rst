@@ -8,7 +8,7 @@
 
 	.. image:: images/Image/ImageDIY.png
 
-	功能：可以按照使用者意愿创建显示图案，可供使用者配合 `显示图像拼`_ 使用，完成在板载LED显示屏上显示创建的图案。
+	功能：可以按照使用者意愿创建显示图案，完成在板载LED显示屏上显示创建的图案,使用时需配合 `显示图像拼`_。
 
 	.. _显示图像拼:: http://docs.turnipbit.com/zh/latest/teach/tutorials/display/display.show.html
 
@@ -47,8 +47,8 @@
 
 		.. _立即编程: http://turnipbit.tpyboard.com/
 
-		 `下载 display.shows HEX`_
+		 `下载 ImageDIYS HEX`_
 
-		.. _下载 display.shows HEX: http://turnipbit.com/download.php?fn=ImageDIYS.hex
+		.. _下载 ImageDIYS HEX: http://turnipbit.com/download.php?fn=ImageDIYS.hex
 		
 		
