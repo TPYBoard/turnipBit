@@ -16,4 +16,4 @@
 	Image/Image.HEART.rst
 	Image/copy.rst
 	Image/invert.rst
-	Image/ImageDIY.rst.rst
+	Image/ImageDIY.rst
