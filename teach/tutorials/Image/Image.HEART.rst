@@ -14,4 +14,4 @@
 
 	[内置图像插]的动画
 
-	.. image:: images/Image/button_a.get_presses.gif
+	.. image:: images/Image/Image.HEART.gif
