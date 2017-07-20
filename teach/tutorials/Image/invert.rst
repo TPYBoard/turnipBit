@@ -48,8 +48,8 @@
 
 		.. _立即编程: http://turnipbit.tpyboard.com/
 
-		 `下载 display.shows HEX`_
+		 `下载 invertx HEX`_
 
-		.. _下载 display.shows HEX: http://turnipbit.com/download.php?fn=invertx.hex
+		.. _下载 invertx HEX: http://turnipbit.com/download.php?fn=invertx.hex
 		
 		
