@@ -9,7 +9,6 @@
 	.. image:: images/accelerometer/compass.calibrate.png
 
 	功能：用来校正指南正的精度，当出现强磁场干扰导致指南针功能不能正常使用，建议校正指南针。
-	
 
 	[校正指南针拼]的动画
 
