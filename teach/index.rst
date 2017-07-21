@@ -18,3 +18,4 @@ TurnipBit 拼插控件教程
 	tutorials/button.rst
 	tutorials/Image.rst
 	tutorials/TurnipBit.rst
+	tutorials/accelerometer.rst
