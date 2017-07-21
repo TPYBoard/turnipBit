@@ -7,7 +7,7 @@
 	[延时拼]的图例
 
 	.. image:: images/TurnipBit/sleep.png
-
+	
 	功能：此拼可将TurnipBit正在运行的程序暂停相应的时间。
 
 	参数：
