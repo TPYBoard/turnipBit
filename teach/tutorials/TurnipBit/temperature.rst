@@ -24,7 +24,7 @@
 
 	拼插源码
 
-	.. image:: images/Image/temperatures.png
+	.. image:: images/TurnipBit/temperatures.png
 
 	实例源码::
 
