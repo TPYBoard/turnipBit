@@ -20,7 +20,9 @@
 自制温度计
 ::::::::::::::::::
 
-	动手DIY制作一个温度计。
+	动手DIY制作一个温度计。此DIY需要使用温度插和 `滚动消息拼`_ 配合完成。
+
+	.. _滚动消息拼: http://docs.turnipbit.com/zh/latest/teach/tutorials/display/display.scroll.html
 
 	拼插源码
 
