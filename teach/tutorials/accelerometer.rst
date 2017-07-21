@@ -6,7 +6,7 @@
 的使用和基本例程讲解，
 
 
-*accelerometer 加速度传感器块*
+*TurnipBit 加速度传感器块*
 
 
 .. toctree::
