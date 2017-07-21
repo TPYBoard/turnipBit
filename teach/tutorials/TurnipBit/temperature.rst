@@ -30,13 +30,8 @@
 
 		from microbit import *
 
-
 		while True:
-			display.show(Image.HEART)
-			sleep(300)
-			display.show(Image.HEART.invert())
-			sleep(300)
-			.show(Image.HEART.invert())
+			display.scroll((str(temperature()) + str('')))
 
 **小试牛刀**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
