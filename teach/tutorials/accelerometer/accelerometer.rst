@@ -14,26 +14,32 @@
 
 	.. image:: images/accelerometer/accelerometer.gif
 
-**温度例程**
+**加速度传感器例程**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-自制温度计
+DIY水平测试仪
 ::::::::::::::::::
 
-	动手DIY制作一个温度计。此DIY需要使用温度插和 `滚动消息拼`_ 配合完成。
+	动手DIY制作一个水平测试仪。此DIY需要使用获取当前加速度值插和 `显示图像拼`_ 和配合 `内置图像插`_ 完成。
 
-	.. _滚动消息拼: http://docs.turnipbit.com/zh/latest/teach/tutorials/display/display.scroll.html
+	.. _显示图像拼: http://docs.turnipbit.com/zh/latest/teach/tutorials/display/display.show.html
+
+	.. _内置图像插: http://docs.turnipbit.com/zh/latest/teach/tutorials/Image/Image.HEART.html
 
 	拼插源码
 
-	.. image:: images/TurnipBit/temperatures.png
+	.. image:: images/TurnipBit/accelerometers.png
 
 	实例源码::
 
 		from microbit import *
 
 		while True:
-			display.scroll((str(temperature()) + str('')))
+			if accelerometer.get_x() <= 45:
+				display.show(Image.ARROW_E)
+			if accelerometer.get_x() >= 135:
+				display.show(Image.ARROW_W)
+
 
 **小试牛刀**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -43,8 +49,8 @@
 
 		.. _立即编程: http://turnipbit.tpyboard.com/
 
-		 `下载 temperatures HEX`_
+		 `下载 accelerometers HEX`_
 
-		.. _下载 temperatures HEX: http://turnipbit.com/download.php?fn=temperatures.hex
+		.. _下载 accelerometers HEX: http://turnipbit.com/download.php?fn=accelerometers.hex
 		
 		
