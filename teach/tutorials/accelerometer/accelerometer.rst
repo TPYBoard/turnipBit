@@ -28,7 +28,7 @@ DIY水平测试仪
 
 	拼插源码
 
-	.. image:: images/TurnipBit/accelerometers.png
+	.. image:: images/accelerometer/accelerometers.png
 
 	实例源码::
 
