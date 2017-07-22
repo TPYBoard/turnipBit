@@ -29,7 +29,7 @@
 
 	拼插源码
 
-	.. image:: images/TurnipBit/compass.headings.png
+	.. image:: images/compass/compass.headings.png
 
 	实例源码::
 
