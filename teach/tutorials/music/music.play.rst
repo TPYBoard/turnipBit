@@ -1,17 +1,15 @@
-**清除显示内容**
+**内置音乐**
 ================================
 
-**清除显示内容的说明**
+**内置音乐的说明**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-	[清除显示内容拼]的图例
+	[内置音乐插]的图例
 
-	.. image:: images/display/display.clear.png
+	.. image:: images/music/music.play.png
 
 	功能：清除当前LED显示屏上面的显示内容。
 
-	[清除显示内容拼]的动画
+	[内置音乐插]的动画
 
-	.. image:: images/display/display.clear.gif
-	
-	
+	.. image:: images/music/music.play.gif
