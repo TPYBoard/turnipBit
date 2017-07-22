@@ -1,24 +1,19 @@
-获取指定LED亮度
+播放音调
 ================
 
-**获取指定LED亮度**
----------------------------------------
-
-**获取指定LED亮度说明**
+**播放音调的说明**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-	[获取指定LED亮度插]的图例
+	[播放音调拼]的图例
 
-	.. image:: images/display/display.get_pixel.png
+	.. image:: images/music/music.pitch.png
 
-	功能：获取指定位置的LED的当前亮度。
+	功能：播放指定音调的音乐。
 
 	参数：
-		- 第一个参数为指定LED的X轴坐标，取值范围为0-4。
-		- 第二个参数为指定LED的Y轴坐标，取值范围为0-4。
+		- 第一个参数为指定播放音调。
+		- 第二个参数为指定播放时间。
 
-	[获取指定LED亮度拼]的动画
+	[播放音调拼]的动画
 
-	.. image:: images/display/display.get_pixel.gif
-	
-	
+	.. image:: images/music/music.pitch.gif
