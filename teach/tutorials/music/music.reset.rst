@@ -1,17 +1,17 @@
-**关闭屏幕**
+**恢复音乐设置**
 ================================
 
-**关闭屏幕的说明**
+**恢复音乐设置的说明**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-	[关闭屏幕拼]的图例
+	[恢复音乐设置拼]的图例
 
-	.. image:: images/display/display.off.png
+	.. image:: images/music/music.reset.png
 
-	功能：打开板载LED显示屏。
+	功能：回复当前的音乐设置为默认值。
 
-	[关闭屏幕拼]的动画
+	[恢复音乐设置拼]的动画
 
-	.. image:: images/display/display.off.gif
+	.. image:: images/music/music.reset.gif
 
 

@@ -1,51 +1,19 @@
-**显示图像**
+**设置节拍**
 ================================
 
-**显示图像的说明**
+**设置节拍的说明**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-	[显示图像拼]的图例
+	[设置节拍拼]的图例
 
-	.. image:: images/display/display.show.png
+	.. image:: images/music/music.set_tempo.png
 
-	功能：在LED显示屏上面显示相应的图案，此拼必须配合图形块中的插使用。
+	功能：设置输出相应的音乐节拍。
 
-	[显示图像拼]的动画
+	参数：
+		- 第一个参数为设置输出的音乐节拍。
+		- 第二个参数为设置输出的音乐节拍输出的次数。
 
-	.. image:: images/display/display.show.gif
+	[设置节拍拼]的动画
 
-**显示图像例程**
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-激动的心
-::::::::::::::::::
-
-	动手DIY一颗跳动的心。
-
-	拼插源码
-
-	.. image:: images/display/display.shows.png
-
-	实例源码::
-
-		from microbit import *
-
-		while True:
-		  display.show(Image.HEART)
-		  sleep(500)
-		  display.show(Image.HEART_SMALL)
-		  sleep(500)
-
-**小试牛刀**
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-
-		 `立即编程`_
-
-		.. _立即编程: http://turnipbit.tpyboard.com/
-
-		 `下载 display.shows HEX`_
-
-		.. _下载 display.shows HEX: http://turnipbit.com/download.php?fn=display.shows.hex
-		
-		
+	.. image:: images/music/music.set_tempo.gif
