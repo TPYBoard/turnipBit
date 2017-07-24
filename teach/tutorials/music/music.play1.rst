@@ -13,5 +13,3 @@
 	[播放音符列表拼]的动画
 
 	.. image:: images/music/music.play1.gif
-	
-	
