@@ -12,6 +12,6 @@
 
 	[设置引脚模拟电压拼]的动画
 
-	.. image:: images/pinpin0.write_analog.gif
+	.. image:: images/pin/pin0.write_analog.gif
 	
 	
