@@ -6,7 +6,7 @@
 
 	**[获取当前节拍插]的图例**
 
-	.. image:: images/music/music.get_tempo.png
+	.. image:: images/music/music.get_tempo1.png
 
 	功能：获取当前输出的音乐节拍。
 
