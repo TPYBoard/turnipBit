@@ -44,7 +44,7 @@ DIY小乐器
 
 		 `下载 musics HEX`_
 
-		.. _下载 accelerometers HEX: http://turnipbit.com/download.php?fn=musics.hex
+		.. _下载 musics HEX: http://turnipbit.com/download.php?fn=musics.hex
 		
 		
 
