@@ -16,8 +16,7 @@
 
 	[播放音调拼]的动画
 
-	.. image:: images/music/music.pitch.gif
-	
+	.. image:: images/music/music.pitch1.gif
 
 **播放音调**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>
