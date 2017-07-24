@@ -1,4 +1,4 @@
-**停止音乐播放**
+**设置引脚电压**
 ================================
 
 **停止音乐播放的说明**
@@ -6,12 +6,12 @@
 
 	[停止音乐播放拼]的图例
 
-	.. image:: images/music/music.stop.png
+	.. image:: images/pin/pin0.write_analog.png
 
-	功能：停止当前正在播放的音乐。
+	功能：设置当前引脚输出电压模拟值。
 
 	[停止音乐播放拼]的动画
 
-	.. image:: images/music/music.stop.gif
+	.. image:: images/pinpin0.write_analog.gif
 	
 	

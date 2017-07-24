@@ -1,15 +1,15 @@
-**获取当前节拍**
+**设置引脚数字输出**
 ================================
 
-**获取当前节拍的说明**
+**设置引脚数字输出的说明**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-	**[获取当前节拍插]的图例**
+	**[设置引脚数字输出拼]的图例**
 
-	.. image:: images/music/music.get_tempo.png
+	.. image:: images/pin/pin0.write_digital.png
 
-	功能：获取当前输出的音乐节拍。
+	功能：设置当前因引脚输出高低电平。
 
-	[获取当前节拍插]的动画
+	[设置引脚数字输出拼]的动画
 
-	.. image:: images/music/music.get_tempo.gif
+	.. image:: images/pin/pin0.write_digital.gif

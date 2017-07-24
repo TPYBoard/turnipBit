@@ -1,15 +1,15 @@
-**内置音乐**
+**引脚是否被触摸**
 ================================
 
-**内置音乐的说明**
+**引脚是否被触摸的说明**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-	[内置音乐插]的图例
+	[引脚是否被触摸插]的图例
 
-	.. image:: images/music/music.play.png
+	.. image:: images/pin/pin.is_touched.png
 
-	功能：清除当前LED显示屏上面的显示内容。
+	功能：判断当前引脚是否被触摸，返回值为真或假。
 
-	[内置音乐插]的动画
+	[引脚是否被触摸插]的动画
 
-	.. image:: images/music/music.play.gif
+	.. image:: images/pin/pin.is_touched.gif
