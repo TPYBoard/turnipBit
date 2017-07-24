@@ -19,7 +19,7 @@
 
 	动手DIY制作一个外接按键小乐器。利用外接按键，控制输出相应频率的声音输出，此例程需要配合 `播放音调拼`_ 配合完成。
 
-	.. _设置指定LED亮度拼: http://docs.turnipbit.com/zh/latest/teach/tutorials/music/music.pitch.html
+	.. _播放音调拼: http://docs.turnipbit.com/zh/latest/teach/tutorials/music/music.pitch.html
 
 	拼插源码
 
