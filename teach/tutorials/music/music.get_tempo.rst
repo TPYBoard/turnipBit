@@ -12,4 +12,4 @@
 
 	[获取当前节拍插]的动画
 
-	.. image:: images/music/music.get_tempo.gif
+	.. image:: images/music/music.get_tempo1.gif
