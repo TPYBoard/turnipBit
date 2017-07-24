@@ -17,4 +17,3 @@
 	pin/pin0.read_analog.rst
 	pin/pin0.write_analog.rst
 	pin/pin0.read_digital.rst
-	pin/pin0.write_digita1.rst
