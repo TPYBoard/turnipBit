@@ -20,7 +20,7 @@
 智能小夜灯
 ::::::::::::::::::
 
-	动手DIY制作一个智能小夜灯。利用外接光敏系统采集当前光照强度，控制板载LED亮度，光照越弱，LED越亮，此例程需要配合`设置指定LED亮度拼`_ 配合完成。
+	动手DIY制作一个智能小夜灯。利用外接光敏系统采集当前光照强度，控制板载LED亮度，光照越弱，LED越亮，此例程需要配合 `设置指定LED亮度拼`_ 配合完成。
 
 	.. _设置指定LED亮度拼: http://docs.turnipbit.com/zh/latest/teach/tutorials/display/display.set_pixel.html
 
