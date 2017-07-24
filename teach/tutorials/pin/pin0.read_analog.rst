@@ -26,7 +26,7 @@
 
 	拼插源码
 
-	.. image:: images/compass/pin0.read_analogs.png
+	.. image:: images/pin/pin0.read_analogs.png
 
 	实例源码::
 
