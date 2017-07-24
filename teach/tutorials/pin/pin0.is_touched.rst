@@ -6,10 +6,10 @@
 
 	[引脚是否被触摸插]的图例
 
-	.. image:: images/pin/pin.is_touched.png
+	.. image:: images/pin/pin0.is_touched.png
 
 	功能：判断当前引脚是否被触摸，返回值为真或假。
 
 	[引脚是否被触摸插]的动画
 
-	.. image:: images/pin/pin.is_touched.gif
+	.. image:: images/pin/pin0.is_touched.gif
