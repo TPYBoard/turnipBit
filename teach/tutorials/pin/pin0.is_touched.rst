@@ -12,7 +12,7 @@
 
 	[引脚是否被触摸插]的动画
 
-	.. image:: images/pin/pin0.is_touched.gif
+	.. image:: images/pin/pin0.is_touched1.gif
 
 **引脚是否被触摸例程**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>
