@@ -22,3 +22,4 @@ TurnipBit 拼插控件教程
 	tutorials/compass.rst
 	tutorials/music.rst
 	tutorials/pin.rst
+	tutorials/radio.rst
