@@ -15,4 +15,4 @@
 
 	[唱消息拼]的动画
 
-	.. image:: images/speech/speech.sing.gif
+	.. image:: images/speech/speech.sing1.gif

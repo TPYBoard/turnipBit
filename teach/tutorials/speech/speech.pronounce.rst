@@ -15,4 +15,4 @@
 
 	[读消息拼]的动画
 
-	.. image:: images/speech/speech.pronounce.gif
+	.. image:: images/speech/speech.pronounce1.gif

@@ -15,4 +15,4 @@
 
 	[说消息拼]的动画
 
-	.. image:: images/speech/speech.say.gif
+	.. image:: images/speech/speech.say1.gif
