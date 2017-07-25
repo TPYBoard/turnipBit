@@ -21,3 +21,4 @@ TurnipBit 拼插控件教程
 	tutorials/accelerometer.rst
 	tutorials/compass.rst
 	tutorials/music.rst
+	
