@@ -12,7 +12,7 @@
 
 	[读取引脚模拟电压插]的动画
 
-	.. image:: images/pin/pin0.read_analog.gif
+	.. image:: images/pin/pin0.read_analog1.gif
 
 **读取引脚模拟电压例程**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>
