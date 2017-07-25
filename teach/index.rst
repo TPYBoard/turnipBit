@@ -23,3 +23,4 @@ TurnipBit 拼插控件教程
 	tutorials/music.rst
 	tutorials/pin.rst
 	tutorials/radio.rst
+	tutorials/speech.rst
