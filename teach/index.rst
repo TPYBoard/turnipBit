@@ -21,8 +21,4 @@ TurnipBit 拼插控件教程
 	tutorials/accelerometer.rst
 	tutorials/compass.rst
 	tutorials/music.rst
-<<<<<<< HEAD
 	tutorials/pin.rst
-=======
-	
->>>>>>> da10f818dbe56c7839cd4b205f112e3a032c7e05
