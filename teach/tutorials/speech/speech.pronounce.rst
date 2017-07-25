@@ -13,6 +13,6 @@
 	参数：
 		- 第一个参数为想要读出的消息。
 
-	[消息配置拼]的动画
+	[读消息拼]的动画
 
 	.. image:: images/speech/speech.pronounce.gif
