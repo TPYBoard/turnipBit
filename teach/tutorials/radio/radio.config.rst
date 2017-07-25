@@ -1,62 +1,22 @@
-**读取引脚数字电压**
+**消息配置**
 ================================
 
-**读取引脚数字电压的说明**
+**消息配置的说明**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-	[读取引脚数字电压插]的图例
+	[消息配置拼]的图例
 
-	.. image:: images/pin/pin0.read_digital.png
+	.. image:: images/radio/radio.config.png
 
-	功能：读取引脚的数字电压，返回值为1或0。
+	功能：设置无线电发送的消息格式。
 
-	[读取引脚数字电压插]的动画
+	参数：
+		- 第一个参数为配置蓝牙消息长度。
+		- 第二个参数为配置最大队列数量。
+		- 第三个参数为配置信道。
+		- 第四个参数为配置广播功率。
+		- 第五个参数为配置传输速率。
 
-	.. image:: images/pin/pin0.read_digital.gif
+	[消息配置拼]的动画
 
-外接按键小乐器
-::::::::::::::::::
-
-	动手DIY制作一个外接按键小乐器。利用外接按键，控制输出相应频率的声音输出，此例程需要配合 `播放音调拼`_ 配合完成。
-
-	.. _播放音调拼: http://docs.turnipbit.com/zh/latest/teach/tutorials/music/music.pitch.html
-
-	拼插源码
-
-	.. image:: images/pin/pin0.read_digitals.png
-
-	实例源码::
-
-		from microbit import *
-		import music
-
-		A = 0
-		while True:
-			if pin0.read_digital():
-				sleep(100)
-				if pin0.read_digital():
-					music.pitch(200, 100)
-			if pin0.read_digital():
-				sleep(100)
-				if pin0.read_digital():
-					music.pitch(400, 100)
-			if pin0.read_digital():
-				sleep(100)
-				if pin0.read_digital():
-					music.pitch(600, 100)
-			if pin0.read_digital():
-				sleep(100)
-				if pin0.read_digital():
-					music.pitch(800, 100)
-
-**小试牛刀**
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-
-		 `立即编程`_
-
-		.. _立即编程: http://turnipbit.tpyboard.com/
-
-		 `下载 pin0.read_digitals HEX`_
-
-		.. _下载 pin0.read_digitals HEX: http://turnipbit.com/download.php?fn=pin0.read_digitals.hex
+	.. image:: images/radio/radio.config.gif

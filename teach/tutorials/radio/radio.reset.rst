@@ -1,17 +1,15 @@
-**设置引脚模拟电压**
+**复位蓝牙**
 ================================
 
-**设置引脚模拟电压的说明**
+**复位蓝牙的说明**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-	[设置引脚模拟电压拼]的图例
+	[复位蓝牙拼]的图例
 
-	.. image:: images/pin/pin0.write_analog.png
+	.. image:: images/radio/radio.reset.png
 
-	功能：设置当前引脚输出电压模拟值。
+	功能：复位无线电功能，执行此拼后，无线电功能将初始化。
 
-	[设置引脚模拟电压拼]的动画
+	[复位蓝牙拼]的动画
 
-	.. image:: images/pin/pin0.write_analog.gif
-	
-	
+	.. image:: images/radio/radio.reset.gif
