@@ -1,15 +1,18 @@
-**关闭蓝牙**
+**唱消息**
 ================================
 
-**关闭蓝牙的说明**
+**唱消息的说明**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-	[关闭蓝牙拼]的图例
+	[唱消息拼]的图例
 
-	.. image:: images/radio/radio.off.png
+	.. image:: images/speech/speech.sing.png
 
-	功能：关闭无线电功能，执行此拼后，无线电功能停止使用。
+	功能：唱出输入的消息。
 
-	[关闭蓝牙拼]的动画
+	参数：
+		- 第一个参数为想要唱出的消息。
 
-	.. image:: images/radio/radio.off.gif
+	[唱消息拼]的动画
+
+	.. image:: images/speech/speech.sing.gif

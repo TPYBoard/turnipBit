@@ -1,15 +1,18 @@
-**打开蓝牙**
+**读消息**
 ================================
 
-**打开蓝牙的说明**
+**读消息的说明**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-	[打开蓝牙拼]的图例
+	[读消息拼]的图例
 
-	.. image:: images/radio/radio.on.png
+	.. image:: images/speech/speech.pronounce.png
 
-	功能：打开无线电功能，使用前必须执行此拼。
+	功能：读出输入的消息。
 
-	[打开蓝牙拼]的动画
+	参数：
+		- 第一个参数为想要读出的消息。
 
-	.. image:: images/radio/radio.on.gif
+	[消息配置拼]的动画
+
+	.. image:: images/speech/speech.pronounce.gif
