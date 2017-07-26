@@ -6,10 +6,10 @@
 
 	[接收消息插]的图例
 
-	.. image:: images/radio/radio.send.png
+	.. image:: images/radio/radio.receive.png
 
 	功能：接收无线电消息，返回值为当前无线电接收到的消息。
 
 	[接收消息插]的动画
 
-	.. image:: images/radio/radio.send.gif
+	.. image:: images/radio/radio.receive.gif
