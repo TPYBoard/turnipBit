@@ -184,7 +184,7 @@ html_last_updated_fmt = '%d %b %Y'
 
 # Additional templates that should be rendered to pages, maps page names to
 # template names.
-html_additional_pages = {"index": "topindex.html"}
+html_additional_pages = {"index.html": "topindex.html"}
 
 # If false, no module index is generated.
 #html_domain_indices = True
