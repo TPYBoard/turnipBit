@@ -36,7 +36,7 @@ ports = OrderedDict((
 
 
 # Specify a custom master document based on the port name
-master_doc = 'index'
+master_doc = micropy_port + '_' + 'index'
 
 # -- General configuration ------------------------------------------------
 
