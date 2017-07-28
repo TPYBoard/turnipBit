@@ -36,7 +36,7 @@ ports = OrderedDict((
 
 
 # Specify a custom master document based on the port name
-master_doc = 'topindex'
+master_doc = 'index'
 
 # -- General configuration ------------------------------------------------
 
