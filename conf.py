@@ -34,9 +34,9 @@ ports = OrderedDict((
 
 # The members of the html_context dict are available inside topindex.html
 
-micropy_port = 'tpyboard'
+
 # Specify a custom master document based on the port name
-master_doc = micropy_port + '_' + 'index'
+master_doc = 'topindex'
 
 # -- General configuration ------------------------------------------------
 
