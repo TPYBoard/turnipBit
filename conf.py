@@ -36,7 +36,7 @@ ports = OrderedDict((
 
 
 # Specify a custom master document based on the port name
-master_doc = 'index'
+master_doc = 'turnipbitindex'
 
 # -- General configuration ------------------------------------------------
 
@@ -190,7 +190,7 @@ html_additional_pages = {"index": "topindex.html"}
 #html_domain_indices = True
 
 # If false, no index is generated.
-#html_use_index = True
+html_use_index = True
 
 # If true, the index is split into individual pages for each letter.
 #html_split_index = False
