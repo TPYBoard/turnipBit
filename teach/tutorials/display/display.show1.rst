@@ -19,5 +19,41 @@
 	[显示图像（带参数）拼]的动画
 
 	.. image:: images/display/display.show1.gif
-	
-	
+
+**显示图像（带参数）例程**
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+滚动的方向板
+::::::::::::::::::
+
+	动手DIY一个滚动的方向板。
+
+	拼插源码
+
+	.. image:: images/display/display.show1s.png
+
+	实例源码::
+
+		from microbit import *
+
+		while True:
+			display.show(Image.ARROW_N, delay=200, wait=True, loop=False, clear=True)
+			display.show(Image.ARROW_E, delay=200, wait=True, loop=False, clear=True)
+			display.show(Image.ARROW_S, delay=200, wait=True, loop=False, clear=True)
+			display.show(Image.ARROW_W, delay=200, wait=True, loop=False, clear=True)
+
+
+**小试牛刀**
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+		 `立即编程`_
+
+		.. _立即编程: http://turnipbit.tpyboard.com/
+
+		 `下载 display.show1s HEX`_
+
+		.. _下载 display.show1s HEX: http://turnipbit.com/download.php?fn=display.show1s.hex
+		
+		
+
