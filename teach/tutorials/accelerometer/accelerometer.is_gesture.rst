@@ -24,7 +24,7 @@
 
 	拼插源码
 
-	.. image:: images/button/accelerometer.is_gestures.png
+	.. image:: images/accelerometer/accelerometer.is_gestures.png
 
 	实例源码::
 
