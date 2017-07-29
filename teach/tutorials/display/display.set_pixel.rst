@@ -42,6 +42,35 @@
 		  display.set_pixel(0, 0, 0)
 		  sleep(500)
 
+随机下雨
+::::::::::::::::::::::::::::::
+
+	动手DIY一个随机下雨的小面板。
+
+	拼插源码
+
+	.. image:: images/display/display.set_pixelh1.png
+
+	实例源码::
+
+		import random
+		from microbit import *
+
+		X = 0
+		Y = 0
+		L = 4
+		while True:
+			X = random.randint(0, 4)
+			for count in range(5):
+				display.set_pixel(X, Y, L)
+				Y = Y + 1
+				L = L + 1
+				sleep(100)
+			display.clear()
+			Y = 0
+			L = 4
+
+
 **小试牛刀**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -53,5 +82,9 @@
 		 `下载 display.set_pixel HEX`_
 
 		.. _下载 display.set_pixel HEX: http://turnipbit.com/download.php?fn=display.set_pixel.hex
+		
+		 `下载 display.set_pixel1 HEX`_
+
+		.. _下载 display.set_pixel HEX: http://turnipbit.com/download.php?fn=display.set_pixel1.hex
 		
 		
