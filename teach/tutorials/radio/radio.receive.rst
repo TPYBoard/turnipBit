@@ -13,3 +13,59 @@
 	[接收消息插]的动画
 
 	.. image:: images/radio/radio.receive.gif
+
+**接收消息例程**
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+自制消息收发器
+::::::::::::::::::
+
+	DIY制作一对消息收发器。一个循环发送0-9，另一个接收并显示接收到的消息。
+
+	拼插源码(发送)
+
+	.. image:: images/radio/radio.receives.png
+
+	实例源码(发送)::
+
+		import radio
+
+		radio.on()
+		X = 0
+		while True:
+			radio.send((str(X) + str('')))
+			if X == 9:
+				X = 0
+			X = X + 1
+
+拼插源码(发送)
+
+	.. image:: images/radio/radio.receivesj.png
+
+	实例源码(发送)::
+
+		import radio
+
+		radio.on()
+		X = 0
+		while True:
+			radio.send((str(X) + str('')))
+			if X == 9:
+				X = 0
+			X = X + 1
+
+**小试牛刀**
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+		 `立即编程`_
+
+		.. _立即编程: http://turnipbit.tpyboard.com/
+
+		 `下载 radio.receives HEX`_
+
+		.. _下载 radio.receives HEX: http://turnipbit.com/download.php?fn=radio.receives.hex
+		
+		
+
+
