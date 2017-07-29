@@ -38,21 +38,18 @@
 				X = 0
 			X = X + 1
 
-拼插源码(发送)
+拼插源码(接收)
 
 	.. image:: images/radio/radio.receivesj.png
 
-	实例源码(发送)::
+	实例源码(接收)::
 
 		import radio
+		from microbit import *
 
 		radio.on()
-		X = 0
 		while True:
-			radio.send((str(X) + str('')))
-			if X == 9:
-				X = 0
-			X = X + 1
+			display.scroll((radio.receive()))
 
 **小试牛刀**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -65,6 +62,10 @@
 		 `下载 radio.receives HEX`_
 
 		.. _下载 radio.receives HEX: http://turnipbit.com/download.php?fn=radio.receives.hex
+		
+				 `下载 radio.receivesj HEX`_
+
+		.. _下载 radio.receivesj HEX: http://turnipbit.com/download.php?fn=radio.receivesj.hex
 		
 		
 
