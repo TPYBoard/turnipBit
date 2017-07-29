@@ -25,7 +25,7 @@
 
 	拼插源码
 
-	.. image:: images/display/button_a.was_presseds.png
+	.. image:: images/button/button_a.was_presseds.png
 
 	实例源码::
 
