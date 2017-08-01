@@ -24,3 +24,4 @@ TurnipBit 拼插控件教程
 	tutorials/pin.rst
 	tutorials/radio.rst
 	tutorials/speech.rst
+	tutorials/logic.rst

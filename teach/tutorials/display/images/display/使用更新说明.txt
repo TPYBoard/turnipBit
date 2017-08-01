@@ -1,0 +1,12 @@
+PC6下载站 http://www.pc6.com 
+
+下载，就来PC6，安全、高速、放心
+
+PC6下载QQ群：56522274
+------------------------------------------------
+------------------------------------------------
+AVRISP在WINDOWSXP/WIN7系统下的驱动，已测试能用。大部分AVR MCU的ISP数据端口亦为 SCK、MOSI、MISO引脚（如Attiny13/24/2313，Atmega48/88/168，Atmega16/32/162，Atmega8515/8535等）。
+
+适合的硬件ID为USB\VID_16c0&PID_05dc
+
+驱动文件：usbasp.inf+libusb0.dll+libusb0.sys
