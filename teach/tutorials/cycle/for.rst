@@ -16,3 +16,20 @@
 	[次数循环拼]的动画
 
 	.. image:: images/cycle/for.gif
+
+**次数循环例程**
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+用到这个控件的例程有很多，例如：
+
+ `随机下雨`_
+
+		.. _随机下雨: http://docs.turnipbit.com/zh/latest/teach/tutorials/display/display.set_pixel.html#id4
+
+**小试牛刀**
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+		 `立即编程`_
+
+		.. _立即编程: http://turnipbit.tpyboard.com/
