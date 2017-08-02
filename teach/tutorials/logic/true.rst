@@ -1,15 +1,15 @@
-**复位蓝牙**
+**逻辑真**
 ================================
 
-**复位蓝牙的说明**
+**逻辑真的说明**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-	[复位蓝牙拼]的图例
+	[逻辑真插]的图例
 
-	.. image:: images/radio/radio.reset.png
+	.. image:: images/logic/true.png
 
-	功能：复位无线电功能，执行此拼后，无线电功能将初始化。
+	功能：返回一个逻辑真的信号。
 
-	[复位蓝牙拼]的动画
+	[逻辑真插]的动画
 
-	.. image:: images/radio/radio.reset.gif
+	.. image:: images/logic/true.gif
