@@ -25,3 +25,4 @@ TurnipBit 拼插控件教程
 	tutorials/radio.rst
 	tutorials/speech.rst
 	tutorials/logic.rst
+	tutorials/cycle.rst
