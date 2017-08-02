@@ -12,7 +12,7 @@
 
 	[如果拼]的动画
 
-	.. image:: images/logic/if.gif
+	.. image:: images/logic/if1.gif
 
 **如果例程**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>

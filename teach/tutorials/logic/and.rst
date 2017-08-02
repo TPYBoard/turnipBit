@@ -12,4 +12,4 @@
 
 	[逻辑判断插]的动画
 
-	.. image:: images/logic/and.gif
+	.. image:: images/logic/and1.gif
