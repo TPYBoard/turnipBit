@@ -6,7 +6,7 @@
 
 	[次数循环拼]的图例
 
-	.. image:: images/cycle/forpng
+	.. image:: images/cycle/for.png
 
 	功能：根据输入参数进行循环，循环至参数输入的次数跳出循环。
 
