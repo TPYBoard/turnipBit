@@ -1,15 +1,15 @@
-**空**
+**结束循环**
 ================================
 
-**空的说明**
+**结束循环的说明**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-	[空插]的图例
+	[结束循环拼]的图例
 
-	.. image:: images/logic/none.png
+	.. image:: images/cycle/break.png
 
-	功能：返回一个数据为空的信号。
+	功能：结束当前循环。
 
-	[空插]的动画
+	[结束循环拼]的动画
 
-	.. image:: images/logic/none.gif
+	.. image:: images/cycle/break.gif
