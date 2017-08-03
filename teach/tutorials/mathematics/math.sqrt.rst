@@ -1,17 +1,15 @@
-**显示是否打开**
+**平方根**
 ================================
 
-**显示是否打开的说明**
+**平方根的说明**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-	[显示是否打开插]的图例
+	[平方根插]的图例
 
-	.. image:: images/display/display.is_on.png
+	.. image:: images/mathematics/math.sqrt.png
 
-	功能：判断板载LED显示屏是否打开，返回值为真或假，常作为判断条件使用。
+	功能：计算当前输入参数的平方根，并返回当前计算结果。
 
-	[显示是否打开插]的动画
+	[平方根插]的动画
 
-	.. image:: images/display/display.is_on.gif
-	
-	
+	.. image:: images/mathematics/math.sqrt.gif

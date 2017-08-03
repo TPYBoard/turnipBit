@@ -1,17 +1,15 @@
-**打开屏幕**
+**π**
 ================================
 
-**打开屏幕的说明**
+**π的说明**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-	[打开屏幕拼]的图例
+	[π插]的图例
 
-	.. image:: images/display/display.on.png
+	.. image:: images/mathematics/math.pi.png
 
-	功能：打开板载LED显示屏。
+	功能：圆周率计算公式中的基本参数π。
 
-	[打开屏幕拼]的动画
+	[π插]的动画
 
-	.. image:: images/display/display.on.gif
-	
-	
+	.. image:: images/mathematics/math.pi.gif

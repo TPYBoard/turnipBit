@@ -1,17 +1,17 @@
-**显示是否打开**
+**随机分数**
 ================================
 
-**显示是否打开的说明**
+**随机分数的说明**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-	[显示是否打开插]的图例
+	[随机分数插]的图例
 
-	.. image:: images/display/display.is_on.png
+	.. image:: images/mathematics/random.random.png
 
-	功能：判断板载LED显示屏是否打开，返回值为真或假，常作为判断条件使用。
+	功能：返回一个随机产生的分数。
 
-	[显示是否打开插]的动画
+	[随机分数插]的动画
 
-	.. image:: images/display/display.is_on.gif
+	.. image:: images/mathematics/random.random.gif
 	
 	

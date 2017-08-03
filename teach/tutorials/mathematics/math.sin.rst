@@ -1,17 +1,17 @@
-**关闭屏幕**
+**三角函数**
 ================================
 
-**关闭屏幕的说明**
+**三角函数的说明**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-	[关闭屏幕拼]的图例
+	[三角函数插]的图例
 
-	.. image:: images/display/display.off.png
+	.. image:: images/mathematics/math.sin.png
 
-	功能：打开板载LED显示屏。
+	功能：计算当前输入角度的三角函数，并返回计算值。
 
-	[关闭屏幕拼]的动画
+	[三角函数插]的动画
 
-	.. image:: images/display/display.off.gif
+	.. image:: images/mathematics/math.sin.gif
 
 
