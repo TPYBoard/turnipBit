@@ -6,7 +6,7 @@
 
 	[取余插]的图例
 
-	.. image:: images/mathematics/%.png
+	.. image:: images/mathematics/1.png
 
 	功能：对当前输入的两个参数进行取余运算，返回值为取余结果。
 
@@ -16,4 +16,4 @@
 
 	[取余插]的动画
 
-	.. image:: images/mathematics/%.gif
+	.. image:: images/mathematics/1.gif
