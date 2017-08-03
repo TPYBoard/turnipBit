@@ -16,8 +16,10 @@
 	
 	mathematics/round.rst
 	mathematics/0.rst
+	mathematics/QY1.rst
 	mathematics/+.rst
 	mathematics/sum.rst
+	mathematics/QY2.rst
 	mathematics/min.rst
 	mathematics/math.pi.rst
 	mathematics/random.randint.rst
