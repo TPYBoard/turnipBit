@@ -1,15 +1,15 @@
-**π**
+**判断数据是否为空**
 ================================
 
-**π的说明**
+**判断数据是否为空的说明**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-	[π插]的图例
+	[判断数据是否为空插]的图例
 
-	.. image:: images/mathematics/math.pi.png
+	.. image:: images/text/notlen.png
 
-	功能：圆周率计算公式中的基本参数π。
+	功能：判断输入的数据是否为空，返回值为真或假。
 
-	[π插]的动画
+	[判断数据是否为空插]的动画
 
-	.. image:: images/mathematics/math.pi.gif
+	.. image:: images/text/notlen.gif

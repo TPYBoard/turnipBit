@@ -1,15 +1,15 @@
-**平方根**
+**追加文本**
 ================================
 
-**平方根的说明**
+**追加文本的说明**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-	[平方根插]的图例
+	[追加文本插]的图例
 
-	.. image:: images/mathematics/math.sqrt.png
+	.. image:: images/text/str1.png
 
-	功能：计算当前输入参数的平方根，并返回当前计算结果。
+	功能：在已建立项目中追加一个文本。
 
-	[平方根插]的动画
+	[追加文本插]的动画
 
-	.. image:: images/mathematics/math.sqrt.gif
+	.. image:: images/text/str1.gif
