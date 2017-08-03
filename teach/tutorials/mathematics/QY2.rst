@@ -6,10 +6,10 @@
 
 	[奇偶判断插]的图例
 
-	.. image:: images/mathematics/%？.png
+	.. image:: images/mathematics/2.png
 
 	功能：判断当前输入的参数的奇偶性，返回值为真或假。
 
 	[奇偶判断插]的动画
 
-	.. image:: images/mathematics/%？.gif
+	.. image:: images/mathematics/2.gif
