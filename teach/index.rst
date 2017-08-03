@@ -7,7 +7,7 @@ TurnipBit 拼插控件教程
 的使用和基本例程讲解，
 
 
-*TurnipBit 基础篇*
+*TurnipBit 板载篇*
 
 
 .. toctree::
@@ -24,6 +24,14 @@ TurnipBit 拼插控件教程
 	tutorials/pin.rst
 	tutorials/radio.rst
 	tutorials/speech.rst
+
+
+*TurnipBit 基础逻辑篇*
+
+.. toctree::
+	:maxdepth: 1
+
+
 	tutorials/logic.rst
 	tutorials/cycle.rst
 	tutorials/mathematics.rst
