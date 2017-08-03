@@ -27,3 +27,4 @@ TurnipBit 拼插控件教程
 	tutorials/logic.rst
 	tutorials/cycle.rst
 	tutorials/mathematics.rst
+	tutorials/text.rst
