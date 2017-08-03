@@ -7,7 +7,7 @@ TurnipBit 拼插控件教程
 的使用和基本例程讲解，
 
 
-*TurnipBit 板载篇*
+*TurnipBit 板载控件篇*
 
 
 .. toctree::
