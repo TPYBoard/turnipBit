@@ -1,17 +1,17 @@
-**随机分数**
+**修改文本格式**
 ================================
 
-**随机分数的说明**
+**修改文本格式的说明**
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-	[随机分数插]的图例
+	[修改文本格式插]的图例
 
-	.. image:: images/mathematics/random.random.png
+	.. image:: images/text/strip.png
 
-	功能：返回一个随机产生的分数。
+	功能：修改当前输入文本的格式，可选择消除左右空格。
 
-	[随机分数插]的动画
+	[修改文本格式插]的动画
 
-	.. image:: images/mathematics/random.random.gif
+	.. image:: images/text/strip.gif
 	
 	
