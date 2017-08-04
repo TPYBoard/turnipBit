@@ -19,8 +19,9 @@
 	set/set5.rst
 	set/len.rst
 	set/notlen.rst
-	set/first_index.find.rst
+	set/first_index.rst
 	set/list2.rst
 	set/list20.rst
 	set/split.rst
 	set/lists_sort.rst
+	set/list21.rst
