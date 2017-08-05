@@ -2,7 +2,7 @@
 =======================
 
 
-本教程的目的是初步学习set开发板的拖拽控件
+本教程的目的是初步学习variable开发板的拖拽控件
 的使用和基本例程讲解，
 
 
@@ -14,6 +14,6 @@
 
 	
 	
-	set/variable.rst
-	set/variable1.rst
-	set/variable2.rst
+	variable/variable.rst
+	variable/variable1.rst
+	variable/variable2.rst
