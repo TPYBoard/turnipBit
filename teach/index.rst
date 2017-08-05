@@ -37,3 +37,4 @@ TurnipBit 拼插控件教程
 	tutorials/mathematics.rst
 	tutorials/text.rst
 	tutorials/set.rst
+	tutorials/variable.rst
