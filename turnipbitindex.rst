@@ -11,6 +11,8 @@ TurnipBit MicroPython文档资料
 Turnip Bit是专为儿童设计的小型计算机设备。流行的Python编程语言是它支持的语言之一。
 运行在TurnipBit上的Python版本就是MicroPython。
 
+`引脚图下载 <https://github.com/TPYBoard/turnipBit/blob/master/pinout.pdf>`_ 
+
 This documentation includes lessons for teachers
 and API documentation for developers (check out the index on the left). We hope
 you enjoy developing for the BBC micro:bit using MicroPython.
